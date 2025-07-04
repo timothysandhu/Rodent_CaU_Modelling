@@ -1,9 +1,10 @@
-function samples = sampling_from_priors(options, data)
+function samples = sampling_from_priors(data, options)
 % sampling_from_priors
-%   Detailed explanation goes here
+%   Takes 100 random samples from the prior distributions for each model
+%   and plots them. 
 arguments (Input)
-    options
     data
+    options
 end
 
 arguments (Output)
@@ -14,8 +15,11 @@ samples = [];
 
 sessiondata = data(data.NewRunIndex == 1, :);
 
+cd(strcat(options.folderlocation,"\Graphs\Prior Sampling"))
+
 for i = 1:numel(options.obsNames)
     for j = 1:numel(options.percNames)
+
         for h = 1:100
         if options.obsNames{i} == "unitsq_mu3" && (options.percNames{j} == "rw" || options.percnames{j} == "sutton")
         continue
@@ -32,11 +36,13 @@ for i = 1:numel(options.obsNames)
         end
         
         fig = gcf;
-        filename = "\Graphs\Prior Sampling\Sample_" + (options.sampling) + (options.percNames{j}) + (options.obsNames{i}) + ".pdf";
+        filename = "Sample_" + (options.sampling) + (options.percNames{j}) + (options.obsNames{i}) + ".pdf";
         exportgraphics(fig, filename, 'Append', true);
 
         end
     end
 end
+
+cd(options.folderlocation)
 
 end
