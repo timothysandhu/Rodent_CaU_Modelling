@@ -9,4 +9,4 @@ data = readtable([options.folderlocation, '\Data\Pre_Stress_Modelling_Data.csv']
 %%
 priors = obtain_bo_priors(data,options);
 %%
-sampling_from_priors(data, options);
+sampling_from_priors(data,options);

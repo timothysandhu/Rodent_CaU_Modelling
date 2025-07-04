@@ -19,6 +19,12 @@ cd(strcat(options.folderlocation,"\Graphs\Prior Sampling"))
 
 for i = 1:numel(options.obsNames)
     for j = 1:numel(options.percNames)
+        filename = "Sample_" + (options.sampling) + (options.percNames{j}) + (options.obsNames{i}) + ".pdf";
+        if isfile(filename) == 1
+            delete(filename);
+        else
+        continue
+        end
 
         for h = 1:100
         if options.obsNames{i} == "unitsq_mu3" && (options.percNames{j} == "rw" || options.percnames{j} == "sutton")
@@ -36,7 +42,6 @@ for i = 1:numel(options.obsNames)
         end
         
         fig = gcf;
-        filename = "Sample_" + (options.sampling) + (options.percNames{j}) + (options.obsNames{i}) + ".pdf";
         exportgraphics(fig, filename, 'Append', true);
 
         end
