@@ -22,8 +22,6 @@ for i = 1:numel(options.obsNames)
         filename = "Sample_" + (options.sampling) + (options.percNames{j}) + (options.obsNames{i}) + ".pdf";
         if isfile(filename) == 1
             delete(filename);
-        else
-        continue
         end
 
         for h = 1:100
