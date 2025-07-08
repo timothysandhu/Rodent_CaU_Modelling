@@ -14,17 +14,29 @@ end
 
 for i = 1:numel(options.percNames)
     for j = 1:(data.NewRunIndex(end))
+        if isfile(strcat(options.folderlocation, "\Saved Variables\bopriors.mat")) == 1
+            continue
+        end
         sessiondata = data(data.NewRunIndex == j, :);
         bopars = tapas_fitModel([], ...
             sessiondata.Correct_Side, ...
             options.percArgs{i}, ...
             'tapas_bayes_optimal_binary_config', ...
             'tapas_quasinewton_optim_config'); 
-        priors.(options.percNames{i})(j, :) = bopars.p_prc.p;
+        priors.(options.percNames{i})(j, :) = bopars.p_prc.p; 
     end
-    options.percArgs{i}.priorsmus = mean(priors.(options.percNames{i}));
 end
 
-save("bopriors.mat")
+if isfile(strcat(options.folderlocation, "\Saved Variables\bopriors.mat")) == 1
+   load("bopriors.mat")
+end
 
+for i = 1:numel(options.percNames)
+    options.percArgs{i}.priorsmus = mean(priors.(options.percNames{i}));
+end
+disp('Priors Updated')
+
+cd(strcat(options.folderlocation, "\Saved Variables"))
+save("bopriors.mat")
+cd(options.folderlocation)
 end

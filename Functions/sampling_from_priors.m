@@ -17,6 +17,8 @@ sessiondata = data(data.NewRunIndex == 1, :);
 
 cd(strcat(options.folderlocation,"\Graphs\Prior Sampling"))
 
+set(groot,'defaultFigureVisible','off'); 
+
 for i = 1:numel(options.obsNames)
     for j = 1:numel(options.percNames)
         filename = "Sample_" + (options.sampling) + (options.percNames{j}) + (options.obsNames{i}) + ".pdf";
@@ -46,6 +48,7 @@ for i = 1:numel(options.obsNames)
     end
 end
 
+set(groot,'defaultFigureVisible','on') 
 cd(options.folderlocation)
 
 end
