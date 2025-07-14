@@ -1,9 +1,10 @@
 close all; 
 clear;
 
-options = cau_options;
+currentFolder = pwd
+addpath(genpath(currentFolder));
 
-addpath(genpath(options.folderlocation));
+options = cau_options;
 
 opts = detectImportOptions('Pre_Stress_Modelling_Data.csv');
 opts = setvartype(opts, opts.VariableNames{1}, 'string'); 
