@@ -8,7 +8,7 @@ end
 
 options = [];
 
-options.folderlocation = 'C:\Users\matth\Documents\MPhil\Data\Rodent_CaU_Modelling';
+options.folderlocation = strcat("~", filesep, "rds", filesep, "hpc-work", filesep, "Rodent_CaU_Modelling");
 
 options.percNames = {"rw", "hgf2l", "hgf3l", "hgfar1", "sutton"};
 options.percArgs = {rw_model_config, two_level_model_config, three_level_model_config, ar1_model_config, sutton_model_config};

@@ -1,11 +1,14 @@
 close all; 
 clear;
 
+currentFolder = pwd;
+addpath(genpath(currentFolder));
+
 options = cau_options;
-lrea 
+
 opts = detectImportOptions('Pre_Stress_Modelling_Data.csv');
 opts = setvartype(opts, opts.VariableNames{1}, 'string'); 
-data = readtable([options.folderlocation, '\Data\Pre_Stress_Modelling_Data.csv'], opts); 
+data = readtable(strcat(options.folderlocation, filesep, "Data", filesep, "Pre_Stress_Modelling_Data.csv"), opts); 
 %%
 priors = obtain_bo_priors(data,options);
 %%

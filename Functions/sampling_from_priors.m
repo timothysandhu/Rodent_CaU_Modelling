@@ -15,7 +15,7 @@ samples = [];
 
 sessiondata = data(data.NewRunIndex == 1, :);
 
-cd(strcat(options.folderlocation,"\Graphs\Prior Sampling"))
+cd(strcat(options.folderlocation,filesep, "Graphs", filesep, "Prior_Sampling"))
 
 set(groot,'defaultFigureVisible','off'); 
 
@@ -43,7 +43,6 @@ for i = 1:numel(options.obsNames)
         
         fig = gcf;
         exportgraphics(fig, filename, 'Append', true);
-
         end
     end
 end
