@@ -36,7 +36,7 @@ for i = 1:numel(options.percNames)
 end
 disp('Priors Updated')
 
-cd(strcat(options.folderlocation, filesep, "Saved_Variables"))
+cd(fullfile(options.folderlocation, "Saved_Variables"))
 save("bopriors.mat")
 cd(options.folderlocation)
 end
