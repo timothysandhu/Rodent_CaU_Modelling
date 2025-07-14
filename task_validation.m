@@ -1,7 +1,7 @@
 close all; 
 clear;
 
-currentFolder = pwd
+currentFolder = pwd;
 addpath(genpath(currentFolder));
 
 options = cau_options;

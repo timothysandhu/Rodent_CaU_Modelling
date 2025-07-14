@@ -15,7 +15,7 @@ samples = [];
 
 sessiondata = data(data.NewRunIndex == 1, :);
 
-cd(strcat(options.folderlocation,filesep, "Graphs", filesep, "Prior_Sampling"))
+cd(fullfile("Graphs", "Prior_Sampling"))
 
 set(groot,'defaultFigureVisible','off'); 
 
@@ -48,6 +48,6 @@ for i = 1:numel(options.obsNames)
 end
 
 set(groot,'defaultFigureVisible','on') 
-cd(options.folderlocation)
+cd ..
 
 end

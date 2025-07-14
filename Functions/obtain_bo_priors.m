@@ -38,5 +38,7 @@ disp('Priors Updated')
 
 cd("Saved_Variables")
 save("bopriors.mat")
-cd(options.folderlocation)
+
+
+cd ..
 end
