@@ -8,7 +8,7 @@ end
 
 options = [];
 
-options.folderlocation = fullfile("rds", "hpc-work", "Rodent_CaU_Modelling");
+options.folderlocation = fullfile("rds", "user", "mth50", "hpc-work", "Rodent_CaU_Modelling");
 
 options.percNames = {"rw", "hgf2l", "hgf3l", "hgfar1", "sutton"};
 options.percArgs = {rw_model_config, two_level_model_config, three_level_model_config, ar1_model_config, sutton_model_config};
