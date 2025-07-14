@@ -14,7 +14,7 @@ end
 
 for i = 1:numel(options.percNames)
     for j = 1:(data.NewRunIndex(end))
-        if isfile(strcat(options.folderlocation, filesep, "Saved_Variables", filesep, "bopriors.mat")) == 1
+        if isfile(strcat("Saved_Variables", filesep, "bopriors.mat")) == 1
             continue
         end
         sessiondata = data(data.NewRunIndex == j, :);
@@ -27,7 +27,7 @@ for i = 1:numel(options.percNames)
     end
 end
 
-if isfile(strcat(options.folderlocation, filesep, "Saved_Variables", filesep, "bopriors.mat")) == 1
+if isfile(strcat("Saved_Variables", filesep, "bopriors.mat")) == 1
    load("bopriors.mat")
 end
 
@@ -36,7 +36,7 @@ for i = 1:numel(options.percNames)
 end
 disp('Priors Updated')
 
-cd(fullfile(options.folderlocation, "Saved_Variables"))
+cd("Saved_Variables")
 save("bopriors.mat")
 cd(options.folderlocation)
 end
