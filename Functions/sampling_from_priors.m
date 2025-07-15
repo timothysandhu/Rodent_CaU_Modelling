@@ -22,8 +22,17 @@ set(groot,'defaultFigureVisible','off');
 for i = 1:numel(options.obsNames)
     for j = 1:numel(options.percNames)
         filename = "Sample_" + (options.sampling) + (options.percNames{j}) + (options.obsNames{i}) + ".pdf";
+        
         if isfile(filename) == 1
-            delete(filename);
+            info = pdfinfo(filename);
+            numFigures = info.NumPages;
+            
+            if numFigures >= 100
+            continue    
+
+            else
+                delete(filename);
+            end
         end
 
         for h = 1:100

@@ -16,6 +16,10 @@ sampling_from_priors(data,options);
 
 %%
 
-two_level_model_config.priorsas
-three_level_model_config.priorsas
-ar1_model_config.priorsas
+two_level_model_config.priorsas = [NaN, 0, 0, NaN, 0, 0, 0, 0], NaN, 4, 0];
+three_level_model_config.priorsas = [NaN, 0, .5, NaN, 0, .5, NaN, 0, 0, .5, 0, NaN, 2, 2];
+ar1_model_config.priorsas = ;
+
+options.sampling = 2;
+
+priors_sdhlv = sampling_from_priors(data,options);
