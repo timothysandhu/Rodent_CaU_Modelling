@@ -11,7 +11,16 @@ arguments (Output)
     samples
 end
 
+
+cd("Saved_Variables")
+
+if isfile('Samples.mat') == 1
+    load('Samples.mat', "samples");
+else
 samples = [];
+end
+
+cd ..
 
 sessiondata = data(data.NewRunIndex == 1, :);
 
@@ -52,6 +61,8 @@ for i = 1:numel(options.obsNames)
         
         fig = gcf;
         exportgraphics(fig, filename, 'Append', true);
+
+        save("Samples.mat", "samples")
         end
     end
 end
