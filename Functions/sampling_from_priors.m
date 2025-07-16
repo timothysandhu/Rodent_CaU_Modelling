@@ -62,10 +62,15 @@ for i = 1:numel(options.obsNames)
         fig = gcf;
         exportgraphics(fig, filename, 'Append', true);
         end
+        cd ..
+        cd ..
+
         cd(Saved_Variables)
         save("Samples.mat", "samples")
+        
         cd .. 
         cd("Graphs")
+        cd("Prior_Sampling")
 
     end
 end
