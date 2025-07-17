@@ -69,13 +69,13 @@ for i = 1:numel(options.obsNames)
         save("Samples.mat", "samples")
         
         cd .. 
-        cd("Graphs")
-        cd("Prior_Sampling")
-
+        cd(fullfile("Graphs", "Prior_Sampling"))
+        
     end
 end
 
 set(groot,'defaultFigureVisible','on') 
+cd ..
 cd ..
 
 end
