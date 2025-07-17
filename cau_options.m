@@ -16,6 +16,8 @@ options.percArgs = {rw_model_config, two_level_model_config, three_level_model_c
 options.obsNames = {"softmax", "unitsq", "unitsq_mu3"};
 options.obsArgs = {softmax_model_config, unitsq_model_config, unitsq_mu3_model_config};
 
+options.optim = quasinewton_optim_config;
+
 options.sampling = 1;
 
 end
