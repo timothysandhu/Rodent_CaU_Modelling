@@ -29,4 +29,6 @@ priors_sdhlv = sampling_from_priors(data,options);
 %%
 num_initialisations(data,options);
 
-% 
+% options.optim.nRandInit =
+%%
+[fits, lmes] = model_fitting(data,options);
