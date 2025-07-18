@@ -65,7 +65,7 @@ for i = 1:numel(options.obsNames)
         cd ..
         cd ..
 
-        cd(Saved_Variables)
+        cd("Saved_Variables")
         save("Samples.mat", "samples")
         
         cd .. 
