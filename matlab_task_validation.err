@@ -1,0 +1,11 @@
+{Unrecognized field name "percnames".
+
+Error in sampling_from_priors (line 48)
+        if options.obsNames{i} == "unitsq_mu3" && (options.percNames{j} == "rw" || options.percnames{j} == "sutton")
+
+Error in task_validation (line 17)
+sampling_from_priors(data,options);
+
+Error in run (line 112)
+evalin('caller', strcat(scriptStem, ';'));
+} 

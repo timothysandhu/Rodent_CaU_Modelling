@@ -45,7 +45,7 @@ for i = 1:numel(options.obsNames)
         end
 
         for h = 1:100
-        if options.obsNames{i} == "unitsq_mu3" && (options.percNames{j} == "rw" || options.percnames{j} == "sutton")
+        if options.obsNames{i} == "unitsq_mu3" && (options.percNames{j} == "rw" || options.percNames{j} == "sutton")
         continue
         end
         

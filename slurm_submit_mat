@@ -1,0 +1,16 @@
+#!/bin/bash
+#SBATCH -A DALLEY-SL3-CPU
+#SBATCH -p icelake # Can change this to a different partition
+#SBATCH -N 1
+#SBATCH -n 76 # MATLAB r2024b minimum requirements are 2 CPUs and 8 GB RAM. This is for anything requiring MATLAB java virtual machine (JVM). This example turns off JVM as not required for anything.
+#SBATCH -t 02:00:00
+#SBATCH -J matlab-task_validation
+#SBATCH -o matlab_task_validation.out
+#SBATCH -e matlab_task_validation.err
+
+module purge
+module load rhel8/global matlab/r2024a
+
+# Using -nojvm to turn off MATLAB JVM and its long, associated overhead.
+# Use with care, as JVM is used in several toolboxes like the parallel toolbox
+matlab -nodisplay -r "run('/home/mth50/rds/hpc-work/Rodent_CaU_Modelling/task_validation.m'); quit"
