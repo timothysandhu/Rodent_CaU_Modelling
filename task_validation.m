@@ -10,7 +10,6 @@ opts = detectImportOptions('Pre_Stress_Modelling_Data.csv');
 opts = setvartype(opts, opts.VariableNames{1}, 'string'); 
 data = readtable(strcat(options.folderlocation, filesep, "Data", filesep, "Pre_Stress_Modelling_Data.csv"), opts); 
 
-options.optim.seedRandInit = 1;
 %% Obtaining Bayes optimal priors
 priors = obtain_bo_priors(data,options);
 %% Sampling from Bayes optimal priors
@@ -27,9 +26,9 @@ sampling_from_priors(data,options);
 % priors_sdhlv = sampling_from_priors(data,options);
 
 %% Determining number of initialisations
-num_initialisations(data,options);
+% num_initialisations(data,options);
 
-% options.optim.nRandInit =
+options.optim.nRandInit = 8;
 %% Fitting models
 [fits, lmes] = model_fitting(data,options);
 
