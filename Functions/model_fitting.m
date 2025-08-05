@@ -25,14 +25,12 @@ cd ..
 
 set(groot,'defaultFigureVisible','off'); 
 
+cd(fullfile("Graphs", "Fitting"));
+
 for i = 2:numel(options.obsNames)
     for j = 1:numel(options.percNames)
         
         filename = "Fitted_" + options.percNames{j} + options.obsNames{i} + ".pdf";
-
-	    workdir =  pwd;
-	    disp(workdir)
-        cd(fullfile("Graphs", "Fitting"));
 
         if isfile(filename) == 1
             info = pdfinfo(filename);
@@ -81,6 +79,8 @@ for i = 2:numel(options.obsNames)
         save("fitting.mat", "lmes", "fits")
 
         cd ..
+
+        cd(fullfile("Graphs", "Fitting"));
 
 
         end
