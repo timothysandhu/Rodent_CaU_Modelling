@@ -30,6 +30,8 @@ for i = 2:numel(options.obsNames)
         
         filename = "Fitted_" + options.percNames{j} + options.obsNames{i} + ".pdf";
 
+	workdir =  pwd;
+	disp(workdir)
         cd(fullfile("Graphs", "Fitting"))
 
         if isfile(filename) == 1
@@ -80,7 +82,6 @@ for i = 2:numel(options.obsNames)
         save("fitting.mat", "lmes", "fits")
 
         cd ..
-        cd(fullfile("Graphs", "Fitting"))
 
     end
 end
