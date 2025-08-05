@@ -40,7 +40,7 @@ for i = 1:numel(options.obsNames)
         plot(lmes.(options.obsNames{i}).(options.percNames{j}));
 
         fig = gcf;
-        exportgraphics(fig, filename, 'Append', true);
+        exportgraphics(fig, filename);
 
         cd ..
         cd ..
