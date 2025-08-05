@@ -30,9 +30,9 @@ for i = 2:numel(options.obsNames)
         
         filename = "Fitted_" + options.percNames{j} + options.obsNames{i} + ".pdf";
 
-	workdir =  pwd;
-	disp(workdir)
-        cd(fullfile("Graphs", "Fitting"))
+	    workdir =  pwd;
+	    disp(workdir)
+        cd(fullfile("Graphs", "Fitting"));
 
         if isfile(filename) == 1
             info = pdfinfo(filename);
@@ -72,9 +72,8 @@ for i = 2:numel(options.obsNames)
         exportgraphics(fig, filename, 'Append', true);
 
         lmes.(options.obsNames{i}).(options.percNames{j})(h, :) = fits.(options.obsNames{i}).(options.percNames{j})(h).optim.LME;
+        disp("Printed Graph")
 
-        end
-        
         cd ..
         cd ..
         cd("Saved_Variables")
@@ -83,6 +82,8 @@ for i = 2:numel(options.obsNames)
 
         cd ..
 
+
+        end
     end
 end
 
