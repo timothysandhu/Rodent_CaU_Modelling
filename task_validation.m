@@ -37,3 +37,6 @@ options.optim.nRandInit = 8;
 
 %% Performing model recovery
 model_recovery(sim,data,options);
+
+%% Performing model comparison
+model_comparison(lmes, options)
