@@ -1,12 +1,19 @@
 An unexpected error has occurred.
 To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
-{Error using cd
-Unable to change current folder to
-'/rds/user/mth50/hpc-work/Rodent_CaU_Modelling/Graphs/Initialisations' (Name is
-nonexistent or not a folder).
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+An unexpected error has occurred.
+To resolve this issue, contact <a href="https://www.mathworks.com/pi_gene_mci_glnxa64">Technical Support</a>.
+{Unrecognized field name "unitsq_mu3".
 
-Error in num_initialisations (line 38)
-        cd("Initialisations")
+Error in num_initialisations (line 40)
+        plot(lmes.(options.obsNames{i}).(options.percNames{j}));
 
 Error in task_validation (line 30)
 num_initialisations(data,options);
