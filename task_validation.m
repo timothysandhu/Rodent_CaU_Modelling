@@ -26,7 +26,7 @@ sampling_from_priors(data,options);
 % priors_sdhlv = sampling_from_priors(data,options);
 
 %% Determining number of initialisations
-% num_initialisations(data,options);
+num_initialisations(data,options);
 
 options.optim.nRandInit = 8;
 %% Fitting models
