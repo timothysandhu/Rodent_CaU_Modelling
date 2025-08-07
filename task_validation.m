@@ -17,9 +17,9 @@ sampling_from_priors(data,options);
 
 %% Sampling from reduced Bayes optimal priors
 
-% two_level_model_config.priorsas = [NaN, 0, 0, NaN, 0, 0, 0, 0, NaN, 4, 0];
-% three_level_model_config.priorsas = [NaN, 0, .5, NaN, 0, .5, NaN, 0, 0, .5, 0, NaN, 2, 2];
-% ar1_model_config.priorsas = [NaN, 0, .5, NaN, 0, .5, NaN, 0, 0, NaN, 0, .5, NaN, 0, 0, .5, 0, NaN, 2, 2];
+two_level_model_config.priorsas = [NaN, 0, 0, NaN, 0, 0, 0, 0, NaN, 4, 0];
+three_level_model_config.priorsas = [NaN, 0, .5, NaN, 0, .5, NaN, 0, 0, .5, 0, NaN, 2, 2];
+ar1_model_config.priorsas = [NaN, 0, .5, NaN, 0, .5, NaN, 0, 0, NaN, 0, .5, NaN, 0, 0, .5, 0, NaN, 2, 2];
 
 % options.sampling = 2;
 
@@ -28,7 +28,7 @@ sampling_from_priors(data,options);
 %% Determining number of initialisations
 % num_initialisations(data,options);
 
-options.optim.nRandInit = 8;
+options.optim.nRandInit = 10;
 %% Fitting models
 [fits, lmes] = model_fitting(data,options);
 
