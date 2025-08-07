@@ -26,7 +26,7 @@ ar1_model_config.priorsas = [NaN, 0, .5, NaN, 0, .5, NaN, 0, 0, NaN, 0, .5, NaN,
 % priors_sdhlv = sampling_from_priors(data,options);
 
 %% Determining number of initialisations
-% num_initialisations(data,options);
+num_initialisations(data,options);
 
 options.optim.nRandInit = 10;
 %% Fitting models

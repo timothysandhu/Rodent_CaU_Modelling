@@ -8,8 +8,15 @@ end
 
 sessiondata = data(data.NewRunIndex == 1, :);
 lmes = [];
+maxlmes = [];
 
 set(groot,'defaultFigureVisible','off'); 
+
+filedir = fullfile("Graphs", "Initialisations");
+
+if ~isfolder(filedir)
+    mkdir(filedir);
+end
 
 for i = 1:numel(options.obsNames)
     for j = 1:numel(options.percNames)
@@ -24,26 +31,19 @@ for i = 1:numel(options.obsNames)
         continue
         end
         
-        options.optim.nRandInit = h;
-
         randInit.(options.obsNames{i}).(options.percNames{j})(h) = tapas_fitModel(sessiondata.Choice,...
                                                  sessiondata.Correct_Side,...
                                                  options.percArgs{j},...
                                                  options.obsArgs{i},...
                                                  options.optim);
         lmes.(options.obsNames{i}).(options.percNames{j})(h) = randInit.(options.obsNames{i}).(options.percNames{j})(h).optim.LME;
+        maxlmes.(options.obsNames{i}).(options.percNames{j})(h) = max(lmes.(options.obsNames{i}).(options.percNames{j}), [], 'omitnan');
         end
 
-        cd("Graphs")
-        cd("Initialisations")
-
-        plot(lmes.(options.obsNames{i}).(options.percNames{j}));
+        plot(maxlmes.(options.obsNames{i}).(options.percNames{j}));
 
         fig = gcf;
-        exportgraphics(fig, filename);
-
-        cd ..
-        cd ..
+        exportgraphics(fig, fullfile(filedir, filename));
 
     end
 end
