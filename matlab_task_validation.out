@@ -16,37 +16,25 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
     v_0: 0.5000
-     al: 0.6637
+     al: 0.6630
 
  
 Parameter estimates for the observation model:
-    be: 2.0034
+    be: 2.0028
 
 Model quality:
-    LME (more is better): -91.9205
-    AIC (less is better): 164.1765
-    BIC (less is better): 170.3269
+    LME (more is better): -91.9214
+    AIC (less is better): 164.1791
+    BIC (less is better): 170.3294
  
-    AIC and BIC are approximations to -2*LME = 183.8409.
+    AIC and BIC are approximations to -2*LME = 183.8428.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -56,33 +44,21 @@ Results:
  
 Parameter estimates for the perceptual model:
     v_0: 0.5000
-     al: 0.6637
+     al: 0.6630
 
  
 Parameter estimates for the observation model:
-    be: 2.0034
+    be: 2.0028
 
 Model quality:
-    LME (more is better): -91.9205
-    AIC (less is better): 164.1765
-    BIC (less is better): 170.3269
+    LME (more is better): -91.9214
+    AIC (less is better): 164.1791
+    BIC (less is better): 170.3294
  
-    AIC and BIC are approximations to -2*LME = 183.8409.
+    AIC and BIC are approximations to -2*LME = 183.8428.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -92,37 +68,21 @@ Results:
  
 Parameter estimates for the perceptual model:
     v_0: 0.5000
-     al: 0.6637
+     al: 0.6630
 
  
 Parameter estimates for the observation model:
-    be: 2.0034
+    be: 2.0028
 
 Model quality:
-    LME (more is better): -91.9205
-    AIC (less is better): 164.1765
-    BIC (less is better): 170.3269
+    LME (more is better): -91.9214
+    AIC (less is better): 164.1791
+    BIC (less is better): 170.3294
  
-    AIC and BIC are approximations to -2*LME = 183.8409.
+    AIC and BIC are approximations to -2*LME = 183.8428.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -132,41 +92,21 @@ Results:
  
 Parameter estimates for the perceptual model:
     v_0: 0.5000
-     al: 0.6637
+     al: 0.6630
 
  
 Parameter estimates for the observation model:
-    be: 2.0034
+    be: 2.0028
 
 Model quality:
-    LME (more is better): -91.9205
-    AIC (less is better): 164.1765
-    BIC (less is better): 170.3269
+    LME (more is better): -91.9214
+    AIC (less is better): 164.1791
+    BIC (less is better): 170.3294
  
-    AIC and BIC are approximations to -2*LME = 183.8409.
+    AIC and BIC are approximations to -2*LME = 183.8428.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -176,45 +116,21 @@ Results:
  
 Parameter estimates for the perceptual model:
     v_0: 0.5000
-     al: 0.6637
+     al: 0.6630
 
  
 Parameter estimates for the observation model:
-    be: 2.0034
+    be: 2.0028
 
 Model quality:
-    LME (more is better): -91.9205
-    AIC (less is better): 164.1765
-    BIC (less is better): 170.3269
+    LME (more is better): -91.9214
+    AIC (less is better): 164.1791
+    BIC (less is better): 170.3294
  
-    AIC and BIC are approximations to -2*LME = 183.8409.
+    AIC and BIC are approximations to -2*LME = 183.8428.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -224,49 +140,21 @@ Results:
  
 Parameter estimates for the perceptual model:
     v_0: 0.5000
-     al: 0.6637
+     al: 0.6630
 
  
 Parameter estimates for the observation model:
-    be: 2.0034
+    be: 2.0028
 
 Model quality:
-    LME (more is better): -91.9205
-    AIC (less is better): 164.1765
-    BIC (less is better): 170.3269
+    LME (more is better): -91.9214
+    AIC (less is better): 164.1791
+    BIC (less is better): 170.3294
  
-    AIC and BIC are approximations to -2*LME = 183.8409.
+    AIC and BIC are approximations to -2*LME = 183.8428.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -276,53 +164,21 @@ Results:
  
 Parameter estimates for the perceptual model:
     v_0: 0.5000
-     al: 0.6637
+     al: 0.6630
 
  
 Parameter estimates for the observation model:
-    be: 2.0034
+    be: 2.0028
 
 Model quality:
-    LME (more is better): -91.9205
-    AIC (less is better): 164.1765
-    BIC (less is better): 170.3269
+    LME (more is better): -91.9214
+    AIC (less is better): 164.1791
+    BIC (less is better): 170.3294
  
-    AIC and BIC are approximations to -2*LME = 183.8409.
+    AIC and BIC are approximations to -2*LME = 183.8428.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -332,57 +188,21 @@ Results:
  
 Parameter estimates for the perceptual model:
     v_0: 0.5000
-     al: 0.6637
+     al: 0.6630
 
  
 Parameter estimates for the observation model:
-    be: 2.0034
+    be: 2.0028
 
 Model quality:
-    LME (more is better): -91.9205
-    AIC (less is better): 164.1765
-    BIC (less is better): 170.3269
+    LME (more is better): -91.9214
+    AIC (less is better): 164.1791
+    BIC (less is better): 170.3294
  
-    AIC and BIC are approximations to -2*LME = 183.8409.
+    AIC and BIC are approximations to -2*LME = 183.8428.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -392,61 +212,21 @@ Results:
  
 Parameter estimates for the perceptual model:
     v_0: 0.5000
-     al: 0.6637
+     al: 0.6630
 
  
 Parameter estimates for the observation model:
-    be: 2.0034
+    be: 2.0028
 
 Model quality:
-    LME (more is better): -91.9205
-    AIC (less is better): 164.1765
-    BIC (less is better): 170.3269
+    LME (more is better): -91.9214
+    AIC (less is better): 164.1791
+    BIC (less is better): 170.3294
  
-    AIC and BIC are approximations to -2*LME = 183.8409.
+    AIC and BIC are approximations to -2*LME = 183.8428.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -456,65 +236,21 @@ Results:
  
 Parameter estimates for the perceptual model:
     v_0: 0.5000
-     al: 0.6637
+     al: 0.6630
 
  
 Parameter estimates for the observation model:
-    be: 2.0034
+    be: 2.0028
 
 Model quality:
-    LME (more is better): -91.9205
-    AIC (less is better): 164.1765
-    BIC (less is better): 170.3269
+    LME (more is better): -91.9214
+    AIC (less is better): 164.1791
+    BIC (less is better): 170.3294
  
-    AIC and BIC are approximations to -2*LME = 183.8409.
+    AIC and BIC are approximations to -2*LME = 183.8428.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -524,69 +260,21 @@ Results:
  
 Parameter estimates for the perceptual model:
     v_0: 0.5000
-     al: 0.6637
+     al: 0.6630
 
  
 Parameter estimates for the observation model:
-    be: 2.0034
+    be: 2.0028
 
 Model quality:
-    LME (more is better): -91.9205
-    AIC (less is better): 164.1765
-    BIC (less is better): 170.3269
+    LME (more is better): -91.9214
+    AIC (less is better): 164.1791
+    BIC (less is better): 170.3294
  
-    AIC and BIC are approximations to -2*LME = 183.8409.
+    AIC and BIC are approximations to -2*LME = 183.8428.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -596,73 +284,21 @@ Results:
  
 Parameter estimates for the perceptual model:
     v_0: 0.5000
-     al: 0.6637
+     al: 0.6630
 
  
 Parameter estimates for the observation model:
-    be: 2.0034
+    be: 2.0028
 
 Model quality:
-    LME (more is better): -91.9205
-    AIC (less is better): 164.1765
-    BIC (less is better): 170.3269
+    LME (more is better): -91.9214
+    AIC (less is better): 164.1791
+    BIC (less is better): 170.3294
  
-    AIC and BIC are approximations to -2*LME = 183.8409.
+    AIC and BIC are approximations to -2*LME = 183.8428.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -672,77 +308,21 @@ Results:
  
 Parameter estimates for the perceptual model:
     v_0: 0.5000
-     al: 0.6637
+     al: 0.6630
 
  
 Parameter estimates for the observation model:
-    be: 2.0034
+    be: 2.0028
 
 Model quality:
-    LME (more is better): -91.9205
-    AIC (less is better): 164.1765
-    BIC (less is better): 170.3269
+    LME (more is better): -91.9214
+    AIC (less is better): 164.1791
+    BIC (less is better): 170.3294
  
-    AIC and BIC are approximations to -2*LME = 183.8409.
+    AIC and BIC are approximations to -2*LME = 183.8428.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -752,81 +332,21 @@ Results:
  
 Parameter estimates for the perceptual model:
     v_0: 0.5000
-     al: 0.6637
+     al: 0.6630
 
  
 Parameter estimates for the observation model:
-    be: 2.0034
+    be: 2.0028
 
 Model quality:
-    LME (more is better): -91.9205
-    AIC (less is better): 164.1765
-    BIC (less is better): 170.3269
+    LME (more is better): -91.9214
+    AIC (less is better): 164.1791
+    BIC (less is better): 170.3294
  
-    AIC and BIC are approximations to -2*LME = 183.8409.
+    AIC and BIC are approximations to -2*LME = 183.8428.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -836,29 +356,23 @@ Results:
  
 Parameter estimates for the perceptual model:
     v_0: 0.5000
-     al: 0.6637
+     al: 0.6630
 
  
 Parameter estimates for the observation model:
-    be: 2.0034
+    be: 2.0028
 
 Model quality:
-    LME (more is better): -91.9205
-    AIC (less is better): 164.1765
-    BIC (less is better): 170.3269
+    LME (more is better): -91.9214
+    AIC (less is better): 164.1791
+    BIC (less is better): 170.3294
  
-    AIC and BIC are approximations to -2*LME = 183.8409.
+    AIC and BIC are approximations to -2*LME = 183.8428.
  
 Ignored trials: none
 Irregular trials: none
  
 Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
  
 Calculating the log-model evidence (LME)...
  
@@ -889,15 +403,30 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
+Results:
+ 
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1]
+    sa_0: [NaN 0.1000 1]
+     rho: [NaN 0 0]
+      ka: [1 0]
+      om: [NaN 0.5570 2]
+
+ 
+Parameter estimates for the observation model:
+    be: 2.4296
+
+Model quality:
+    LME (more is better): -94.4936
+    AIC (less is better): 162.5755
+    BIC (less is better): 168.7258
+ 
+    AIC and BIC are approximations to -2*LME = 188.9872.
+ 
+Ignored trials: none
+Irregular trials: none
+ 
 Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
  
 Calculating the log-model evidence (LME)...
  
@@ -928,21 +457,30 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
+Results:
+ 
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1]
+    sa_0: [NaN 0.1000 1]
+     rho: [NaN 0 0]
+      ka: [1 0]
+      om: [NaN 0.5570 2]
+
+ 
+Parameter estimates for the observation model:
+    be: 2.4296
+
+Model quality:
+    LME (more is better): -94.4936
+    AIC (less is better): 162.5755
+    BIC (less is better): 168.7258
+ 
+    AIC and BIC are approximations to -2*LME = 188.9872.
+ 
+Ignored trials: none
+Irregular trials: none
+ 
 Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
  
 Calculating the log-model evidence (LME)...
  
@@ -973,27 +511,30 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
+Results:
+ 
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1]
+    sa_0: [NaN 0.1000 1]
+     rho: [NaN 0 0]
+      ka: [1 0]
+      om: [NaN 0.5570 2]
+
+ 
+Parameter estimates for the observation model:
+    be: 2.4296
+
+Model quality:
+    LME (more is better): -94.4936
+    AIC (less is better): 162.5755
+    BIC (less is better): 168.7258
+ 
+    AIC and BIC are approximations to -2*LME = 188.9872.
+ 
+Ignored trials: none
+Irregular trials: none
+ 
 Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
  
 Calculating the log-model evidence (LME)...
  
@@ -1024,33 +565,30 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
+Results:
+ 
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1]
+    sa_0: [NaN 0.1000 1]
+     rho: [NaN 0 0]
+      ka: [1 0]
+      om: [NaN 0.5570 2]
+
+ 
+Parameter estimates for the observation model:
+    be: 2.4296
+
+Model quality:
+    LME (more is better): -94.4936
+    AIC (less is better): 162.5755
+    BIC (less is better): 168.7258
+ 
+    AIC and BIC are approximations to -2*LME = 188.9872.
+ 
+Ignored trials: none
+Irregular trials: none
+ 
 Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
  
 Calculating the log-model evidence (LME)...
  
@@ -1081,39 +619,30 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Warning: optimization terminated because the maximum number of resets was reached.
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1]
+    sa_0: [NaN 0.1000 1]
+     rho: [NaN 0 0]
+      ka: [1 0]
+      om: [NaN 0.5570 2]
+
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the observation model:
+    be: 2.4296
+
+Model quality:
+    LME (more is better): -94.4936
+    AIC (less is better): 162.5755
+    BIC (less is better): 168.7258
  
-Optimizing...
+    AIC and BIC are approximations to -2*LME = 188.9872.
  
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
  
 Calculating the log-model evidence (LME)...
  
@@ -1144,45 +673,30 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Warning: optimization terminated because the maximum number of resets was reached.
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1]
+    sa_0: [NaN 0.1000 1]
+     rho: [NaN 0 0]
+      ka: [1 0]
+      om: [NaN 0.5570 2]
+
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the observation model:
+    be: 2.4296
+
+Model quality:
+    LME (more is better): -94.4936
+    AIC (less is better): 162.5755
+    BIC (less is better): 168.7258
  
-Optimizing...
+    AIC and BIC are approximations to -2*LME = 188.9872.
  
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
  
 Calculating the log-model evidence (LME)...
  
@@ -1213,54 +727,6 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
@@ -1288,60 +754,6 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
@@ -1364,622 +776,6 @@ Model quality:
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1]
-    sa_0: [NaN 0.1000 1]
-     rho: [NaN 0 0]
-      ka: [1 0]
-      om: [NaN 0.5570 2]
-
- 
-Parameter estimates for the observation model:
-    be: 2.4296
-
-Model quality:
-    LME (more is better): -94.4936
-    AIC (less is better): 162.5755
-    BIC (less is better): 168.7258
- 
-    AIC and BIC are approximations to -2*LME = 188.9872.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1]
-    sa_0: [NaN 0.1000 1]
-     rho: [NaN 0 0]
-      ka: [1 0]
-      om: [NaN 0.5570 2]
-
- 
-Parameter estimates for the observation model:
-    be: 2.4296
-
-Model quality:
-    LME (more is better): -94.4936
-    AIC (less is better): 162.5755
-    BIC (less is better): 168.7258
- 
-    AIC and BIC are approximations to -2*LME = 188.9872.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1]
-    sa_0: [NaN 0.1000 1]
-     rho: [NaN 0 0]
-      ka: [1 0]
-      om: [NaN 0.5570 2]
-
- 
-Parameter estimates for the observation model:
-    be: 2.4296
-
-Model quality:
-    LME (more is better): -94.4936
-    AIC (less is better): 162.5755
-    BIC (less is better): 168.7258
- 
-    AIC and BIC are approximations to -2*LME = 188.9872.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1]
-    sa_0: [NaN 0.1000 1]
-     rho: [NaN 0 0]
-      ka: [1 0]
-      om: [NaN 0.5570 2]
-
- 
-Parameter estimates for the observation model:
-    be: 2.4296
-
-Model quality:
-    LME (more is better): -94.4936
-    AIC (less is better): 162.5755
-    BIC (less is better): 168.7258
- 
-    AIC and BIC are approximations to -2*LME = 188.9872.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1]
-    sa_0: [NaN 0.1000 1]
-     rho: [NaN 0 0]
-      ka: [1 0]
-      om: [NaN 0.5570 2]
-
- 
-Parameter estimates for the observation model:
-    be: 2.4296
-
-Model quality:
-    LME (more is better): -94.4936
-    AIC (less is better): 162.5755
-    BIC (less is better): 168.7258
- 
-    AIC and BIC are approximations to -2*LME = 188.9872.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Warning: optimization terminated because the maximum number of resets was reached.
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1]
-    sa_0: [NaN 0.1000 1]
-     rho: [NaN 0 0]
-      ka: [1 0]
-      om: [NaN 0.5570 2]
-
- 
-Parameter estimates for the observation model:
-    be: 2.4296
-
-Model quality:
-    LME (more is better): -94.4936
-    AIC (less is better): 162.5755
-    BIC (less is better): 168.7258
- 
-    AIC and BIC are approximations to -2*LME = 188.9872.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -2012,9 +808,28 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1.7065]
+    sa_0: [NaN 0.1000 1.0760]
+     rho: [NaN 0 0]
+      ka: [2.2099 1]
+      om: [NaN -1.7135 -1.1651]
+
+ 
+Parameter estimates for the observation model:
+    be: 1.4096
+
+Model quality:
+    LME (more is better): -108.2791
+    AIC (less is better): 169.1395
+    BIC (less is better): 187.5905
+ 
+    AIC and BIC are approximations to -2*LME = 216.5583.
+ 
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -2047,13 +862,28 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1.7065]
+    sa_0: [NaN 0.1000 1.0760]
+     rho: [NaN 0 0]
+      ka: [2.2099 1]
+      om: [NaN -1.7135 -1.1651]
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    be: 1.4096
+
+Model quality:
+    LME (more is better): -108.2791
+    AIC (less is better): 169.1395
+    BIC (less is better): 187.5905
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 216.5583.
+ 
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -2086,22 +916,6 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
@@ -2124,27 +938,6 @@ Model quality:
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
-Launching updater executable
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -2177,25 +970,28 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1.7065]
+    sa_0: [NaN 0.1000 1.0760]
+     rho: [NaN 0 0]
+      ka: [2.2099 1]
+      om: [NaN -1.7135 -1.1651]
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    be: 1.4096
+
+Model quality:
+    LME (more is better): -108.2791
+    AIC (less is better): 169.1395
+    BIC (less is better): 187.5905
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 216.5583.
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -2228,29 +1024,28 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1.7065]
+    sa_0: [NaN 0.1000 1.0760]
+     rho: [NaN 0 0]
+      ka: [2.2099 1]
+      om: [NaN -1.7135 -1.1651]
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    be: 1.4096
+
+Model quality:
+    LME (more is better): -108.2791
+    AIC (less is better): 169.1395
+    BIC (less is better): 187.5905
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 216.5583.
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -2283,33 +1078,28 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1.7065]
+    sa_0: [NaN 0.1000 1.0760]
+     rho: [NaN 0 0]
+      ka: [2.2099 1]
+      om: [NaN -1.7135 -1.1651]
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    be: 1.4096
+
+Model quality:
+    LME (more is better): -108.2791
+    AIC (less is better): 169.1395
+    BIC (less is better): 187.5905
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 216.5583.
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -2342,42 +1132,6 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
@@ -2405,46 +1159,6 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
@@ -2467,405 +1181,6 @@ Model quality:
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1.7065]
-    sa_0: [NaN 0.1000 1.0760]
-     rho: [NaN 0 0]
-      ka: [2.2099 1]
-      om: [NaN -1.7135 -1.1651]
-
- 
-Parameter estimates for the observation model:
-    be: 1.4096
-
-Model quality:
-    LME (more is better): -108.2791
-    AIC (less is better): 169.1395
-    BIC (less is better): 187.5905
- 
-    AIC and BIC are approximations to -2*LME = 216.5583.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1.7065]
-    sa_0: [NaN 0.1000 1.0760]
-     rho: [NaN 0 0]
-      ka: [2.2099 1]
-      om: [NaN -1.7135 -1.1651]
-
- 
-Parameter estimates for the observation model:
-    be: 1.4096
-
-Model quality:
-    LME (more is better): -108.2791
-    AIC (less is better): 169.1395
-    BIC (less is better): 187.5905
- 
-    AIC and BIC are approximations to -2*LME = 216.5583.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1.7065]
-    sa_0: [NaN 0.1000 1.0760]
-     rho: [NaN 0 0]
-      ka: [2.2099 1]
-      om: [NaN -1.7135 -1.1651]
-
- 
-Parameter estimates for the observation model:
-    be: 1.4096
-
-Model quality:
-    LME (more is better): -108.2791
-    AIC (less is better): 169.1395
-    BIC (less is better): 187.5905
- 
-    AIC and BIC are approximations to -2*LME = 216.5583.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1.7065]
-    sa_0: [NaN 0.1000 1.0760]
-     rho: [NaN 0 0]
-      ka: [2.2099 1]
-      om: [NaN -1.7135 -1.1651]
-
- 
-Parameter estimates for the observation model:
-    be: 1.4096
-
-Model quality:
-    LME (more is better): -108.2791
-    AIC (less is better): 169.1395
-    BIC (less is better): 187.5905
- 
-    AIC and BIC are approximations to -2*LME = 216.5583.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1.7065]
-    sa_0: [NaN 0.1000 1.0760]
-     rho: [NaN 0 0]
-      ka: [2.2099 1]
-      om: [NaN -1.7135 -1.1651]
-
- 
-Parameter estimates for the observation model:
-    be: 1.4096
-
-Model quality:
-    LME (more is better): -108.2791
-    AIC (less is better): 169.1395
-    BIC (less is better): 187.5905
- 
-    AIC and BIC are approximations to -2*LME = 216.5583.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -2900,9 +1215,30 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1.2271]
+    sa_0: [NaN 0.1000 1.0024]
+     phi: [NaN 0 0.5000]
+       m: [NaN 0 2.9516]
+     rho: [NaN 0 0]
+      ka: [1.2110 1]
+      om: [NaN -2.7057 -2.0654]
+
+ 
+Parameter estimates for the observation model:
+    be: 2.2134
+
+Model quality:
+    LME (more is better): -103.2417
+    AIC (less is better): 169.3425
+    BIC (less is better): 190.8687
+ 
+    AIC and BIC are approximations to -2*LME = 206.4835.
+ 
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -2937,13 +1273,30 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1.2271]
+    sa_0: [NaN 0.1000 1.0024]
+     phi: [NaN 0 0.5000]
+       m: [NaN 0 2.9516]
+     rho: [NaN 0 0]
+      ka: [1.2110 1]
+      om: [NaN -2.7057 -2.0654]
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    be: 2.2134
+
+Model quality:
+    LME (more is better): -103.2417
+    AIC (less is better): 169.3425
+    BIC (less is better): 190.8687
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 206.4835.
+ 
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -2978,17 +1331,30 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1.2271]
+    sa_0: [NaN 0.1000 1.0024]
+     phi: [NaN 0 0.5000]
+       m: [NaN 0 2.9516]
+     rho: [NaN 0 0]
+      ka: [1.2110 1]
+      om: [NaN -2.7057 -2.0654]
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    be: 2.2134
+
+Model quality:
+    LME (more is better): -103.2417
+    AIC (less is better): 169.3425
+    BIC (less is better): 190.8687
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 206.4835.
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -3023,21 +1389,30 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1.2271]
+    sa_0: [NaN 0.1000 1.0024]
+     phi: [NaN 0 0.5000]
+       m: [NaN 0 2.9516]
+     rho: [NaN 0 0]
+      ka: [1.2110 1]
+      om: [NaN -2.7057 -2.0654]
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    be: 2.2134
+
+Model quality:
+    LME (more is better): -103.2417
+    AIC (less is better): 169.3425
+    BIC (less is better): 190.8687
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 206.4835.
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -3072,26 +1447,30 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1.2271]
+    sa_0: [NaN 0.1000 1.0024]
+     phi: [NaN 0 0.5000]
+       m: [NaN 0 2.9516]
+     rho: [NaN 0 0]
+      ka: [1.2110 1]
+      om: [NaN -2.7057 -2.0654]
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    be: 2.2134
+
+Model quality:
+    LME (more is better): -103.2417
+    AIC (less is better): 169.3425
+    BIC (less is better): 190.8687
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 206.4835.
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
-Launching updater executable
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -3126,29 +1505,30 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1.2271]
+    sa_0: [NaN 0.1000 1.0024]
+     phi: [NaN 0 0.5000]
+       m: [NaN 0 2.9516]
+     rho: [NaN 0 0]
+      ka: [1.2110 1]
+      om: [NaN -2.7057 -2.0654]
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    be: 2.2134
+
+Model quality:
+    LME (more is better): -103.2417
+    AIC (less is better): 169.3425
+    BIC (less is better): 190.8687
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 206.4835.
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -3183,33 +1563,30 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1.2271]
+    sa_0: [NaN 0.1000 1.0024]
+     phi: [NaN 0 0.5000]
+       m: [NaN 0 2.9516]
+     rho: [NaN 0 0]
+      ka: [1.2110 1]
+      om: [NaN -2.7057 -2.0654]
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    be: 2.2134
+
+Model quality:
+    LME (more is better): -103.2417
+    AIC (less is better): 169.3425
+    BIC (less is better): 190.8687
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 206.4835.
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -3244,580 +1621,27 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1.2271]
-    sa_0: [NaN 0.1000 1.0024]
-     phi: [NaN 0 0.5000]
-       m: [NaN 0 2.9516]
-     rho: [NaN 0 0]
-      ka: [1.2110 1]
-      om: [NaN -2.7057 -2.0654]
-
- 
-Parameter estimates for the observation model:
-    be: 2.2134
-
-Model quality:
-    LME (more is better): -103.2417
-    AIC (less is better): 169.3425
-    BIC (less is better): 190.8687
- 
-    AIC and BIC are approximations to -2*LME = 206.4835.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1.2271]
-    sa_0: [NaN 0.1000 1.0024]
-     phi: [NaN 0 0.5000]
-       m: [NaN 0 2.9516]
-     rho: [NaN 0 0]
-      ka: [1.2110 1]
-      om: [NaN -2.7057 -2.0654]
-
- 
-Parameter estimates for the observation model:
-    be: 2.2134
-
-Model quality:
-    LME (more is better): -103.2417
-    AIC (less is better): 169.3425
-    BIC (less is better): 190.8687
- 
-    AIC and BIC are approximations to -2*LME = 206.4835.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
-Launching updater executable
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1.2271]
-    sa_0: [NaN 0.1000 1.0024]
-     phi: [NaN 0 0.5000]
-       m: [NaN 0 2.9516]
-     rho: [NaN 0 0]
-      ka: [1.2110 1]
-      om: [NaN -2.7057 -2.0654]
-
- 
-Parameter estimates for the observation model:
-    be: 2.2134
-
-Model quality:
-    LME (more is better): -103.2417
-    AIC (less is better): 169.3425
-    BIC (less is better): 190.8687
- 
-    AIC and BIC are approximations to -2*LME = 206.4835.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1.2271]
-    sa_0: [NaN 0.1000 1.0024]
-     phi: [NaN 0 0.5000]
-       m: [NaN 0 2.9516]
-     rho: [NaN 0 0]
-      ka: [1.2110 1]
-      om: [NaN -2.7057 -2.0654]
-
- 
-Parameter estimates for the observation model:
-    be: 2.2134
-
-Model quality:
-    LME (more is better): -103.2417
-    AIC (less is better): 169.3425
-    BIC (less is better): 190.8687
- 
-    AIC and BIC are approximations to -2*LME = 206.4835.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1.2271]
-    sa_0: [NaN 0.1000 1.0024]
-     phi: [NaN 0 0.5000]
-       m: [NaN 0 2.9516]
-     rho: [NaN 0 0]
-      ka: [1.2110 1]
-      om: [NaN -2.7057 -2.0654]
-
- 
-Parameter estimates for the observation model:
-    be: 2.2134
-
-Model quality:
-    LME (more is better): -103.2417
-    AIC (less is better): 169.3425
-    BIC (less is better): 190.8687
- 
-    AIC and BIC are approximations to -2*LME = 206.4835.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1.2271]
-    sa_0: [NaN 0.1000 1.0024]
-     phi: [NaN 0 0.5000]
-       m: [NaN 0 2.9516]
-     rho: [NaN 0 0]
-      ka: [1.2110 1]
-      om: [NaN -2.7057 -2.0654]
-
- 
-Parameter estimates for the observation model:
-    be: 2.2134
-
-Model quality:
-    LME (more is better): -103.2417
-    AIC (less is better): 169.3425
-    BIC (less is better): 190.8687
- 
-    AIC and BIC are approximations to -2*LME = 206.4835.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
-Launching updater executable
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1.2271]
-    sa_0: [NaN 0.1000 1.0024]
-     phi: [NaN 0 0.5000]
-       m: [NaN 0 2.9516]
-     rho: [NaN 0 0]
-      ka: [1.2110 1]
-      om: [NaN -2.7057 -2.0654]
-
- 
-Parameter estimates for the observation model:
-    be: 2.2134
-
-Model quality:
-    LME (more is better): -103.2417
-    AIC (less is better): 169.3425
-    BIC (less is better): 190.8687
- 
-    AIC and BIC are approximations to -2*LME = 206.4835.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-        mu: 0.0039
+        mu: 0.0048
       Rhat: 1
-    vhat_1: 0.6443
+    vhat_1: 0.6450
        h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    be: 2.2154
+    be: 2.2202
 
 Model quality:
-    LME (more is better): -98.3049
-    AIC (less is better): 172.6756
-    BIC (less is better): 184.9763
+    LME (more is better): -98.3956
+    AIC (less is better): 172.7125
+    BIC (less is better): 185.0132
  
-    AIC and BIC are approximations to -2*LME = 196.6097.
+    AIC and BIC are approximations to -2*LME = 196.7911.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -3826,36 +1650,24 @@ Calculating the log-model evidence (LME)...
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0039
+        mu: 0.0048
       Rhat: 1
-    vhat_1: 0.6443
+    vhat_1: 0.6450
        h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    be: 2.2154
+    be: 2.2202
 
 Model quality:
-    LME (more is better): -98.3049
-    AIC (less is better): 172.6756
-    BIC (less is better): 184.9763
+    LME (more is better): -98.3956
+    AIC (less is better): 172.7125
+    BIC (less is better): 185.0132
  
-    AIC and BIC are approximations to -2*LME = 196.6097.
+    AIC and BIC are approximations to -2*LME = 196.7911.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -3864,40 +1676,24 @@ Calculating the log-model evidence (LME)...
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0039
+        mu: 0.0048
       Rhat: 1
-    vhat_1: 0.6443
+    vhat_1: 0.6450
        h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    be: 2.2154
+    be: 2.2202
 
 Model quality:
-    LME (more is better): -98.3049
-    AIC (less is better): 172.6756
-    BIC (less is better): 184.9763
+    LME (more is better): -98.3956
+    AIC (less is better): 172.7125
+    BIC (less is better): 185.0132
  
-    AIC and BIC are approximations to -2*LME = 196.6097.
+    AIC and BIC are approximations to -2*LME = 196.7911.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -3906,44 +1702,24 @@ Calculating the log-model evidence (LME)...
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0039
+        mu: 0.0048
       Rhat: 1
-    vhat_1: 0.6443
+    vhat_1: 0.6450
        h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    be: 2.2154
+    be: 2.2202
 
 Model quality:
-    LME (more is better): -98.3049
-    AIC (less is better): 172.6756
-    BIC (less is better): 184.9763
+    LME (more is better): -98.3956
+    AIC (less is better): 172.7125
+    BIC (less is better): 185.0132
  
-    AIC and BIC are approximations to -2*LME = 196.6097.
+    AIC and BIC are approximations to -2*LME = 196.7911.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -3952,48 +1728,24 @@ Calculating the log-model evidence (LME)...
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0039
+        mu: 0.0048
       Rhat: 1
-    vhat_1: 0.6443
+    vhat_1: 0.6450
        h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    be: 2.2154
+    be: 2.2202
 
 Model quality:
-    LME (more is better): -98.3049
-    AIC (less is better): 172.6756
-    BIC (less is better): 184.9763
+    LME (more is better): -98.3956
+    AIC (less is better): 172.7125
+    BIC (less is better): 185.0132
  
-    AIC and BIC are approximations to -2*LME = 196.6097.
+    AIC and BIC are approximations to -2*LME = 196.7911.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -4002,52 +1754,24 @@ Calculating the log-model evidence (LME)...
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0039
+        mu: 0.0048
       Rhat: 1
-    vhat_1: 0.6443
+    vhat_1: 0.6450
        h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    be: 2.2154
+    be: 2.2202
 
 Model quality:
-    LME (more is better): -98.3049
-    AIC (less is better): 172.6756
-    BIC (less is better): 184.9763
+    LME (more is better): -98.3956
+    AIC (less is better): 172.7125
+    BIC (less is better): 185.0132
  
-    AIC and BIC are approximations to -2*LME = 196.6097.
+    AIC and BIC are approximations to -2*LME = 196.7911.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -4056,56 +1780,24 @@ Calculating the log-model evidence (LME)...
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0039
+        mu: 0.0048
       Rhat: 1
-    vhat_1: 0.6443
+    vhat_1: 0.6450
        h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    be: 2.2154
+    be: 2.2202
 
 Model quality:
-    LME (more is better): -98.3049
-    AIC (less is better): 172.6756
-    BIC (less is better): 184.9763
+    LME (more is better): -98.3956
+    AIC (less is better): 172.7125
+    BIC (less is better): 185.0132
  
-    AIC and BIC are approximations to -2*LME = 196.6097.
+    AIC and BIC are approximations to -2*LME = 196.7911.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -4114,60 +1806,24 @@ Calculating the log-model evidence (LME)...
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0039
+        mu: 0.0048
       Rhat: 1
-    vhat_1: 0.6443
+    vhat_1: 0.6450
        h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    be: 2.2154
+    be: 2.2202
 
 Model quality:
-    LME (more is better): -98.3049
-    AIC (less is better): 172.6756
-    BIC (less is better): 184.9763
+    LME (more is better): -98.3956
+    AIC (less is better): 172.7125
+    BIC (less is better): 185.0132
  
-    AIC and BIC are approximations to -2*LME = 196.6097.
+    AIC and BIC are approximations to -2*LME = 196.7911.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -4176,64 +1832,24 @@ Calculating the log-model evidence (LME)...
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0039
+        mu: 0.0048
       Rhat: 1
-    vhat_1: 0.6443
+    vhat_1: 0.6450
        h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    be: 2.2154
+    be: 2.2202
 
 Model quality:
-    LME (more is better): -98.3049
-    AIC (less is better): 172.6756
-    BIC (less is better): 184.9763
+    LME (more is better): -98.3956
+    AIC (less is better): 172.7125
+    BIC (less is better): 185.0132
  
-    AIC and BIC are approximations to -2*LME = 196.6097.
+    AIC and BIC are approximations to -2*LME = 196.7911.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -4242,68 +1858,24 @@ Calculating the log-model evidence (LME)...
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0039
+        mu: 0.0048
       Rhat: 1
-    vhat_1: 0.6443
+    vhat_1: 0.6450
        h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    be: 2.2154
+    be: 2.2202
 
 Model quality:
-    LME (more is better): -98.3049
-    AIC (less is better): 172.6756
-    BIC (less is better): 184.9763
+    LME (more is better): -98.3956
+    AIC (less is better): 172.7125
+    BIC (less is better): 185.0132
  
-    AIC and BIC are approximations to -2*LME = 196.6097.
+    AIC and BIC are approximations to -2*LME = 196.7911.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -4312,72 +1884,24 @@ Calculating the log-model evidence (LME)...
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0039
+        mu: 0.0048
       Rhat: 1
-    vhat_1: 0.6443
+    vhat_1: 0.6450
        h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    be: 2.2154
+    be: 2.2202
 
 Model quality:
-    LME (more is better): -98.3049
-    AIC (less is better): 172.6756
-    BIC (less is better): 184.9763
+    LME (more is better): -98.3956
+    AIC (less is better): 172.7125
+    BIC (less is better): 185.0132
  
-    AIC and BIC are approximations to -2*LME = 196.6097.
+    AIC and BIC are approximations to -2*LME = 196.7911.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -4386,76 +1910,24 @@ Calculating the log-model evidence (LME)...
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0039
+        mu: 0.0048
       Rhat: 1
-    vhat_1: 0.6443
+    vhat_1: 0.6450
        h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    be: 2.2154
+    be: 2.2202
 
 Model quality:
-    LME (more is better): -98.3049
-    AIC (less is better): 172.6756
-    BIC (less is better): 184.9763
+    LME (more is better): -98.3956
+    AIC (less is better): 172.7125
+    BIC (less is better): 185.0132
  
-    AIC and BIC are approximations to -2*LME = 196.6097.
+    AIC and BIC are approximations to -2*LME = 196.7911.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -4464,80 +1936,24 @@ Calculating the log-model evidence (LME)...
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0039
+        mu: 0.0048
       Rhat: 1
-    vhat_1: 0.6443
+    vhat_1: 0.6450
        h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    be: 2.2154
+    be: 2.2202
 
 Model quality:
-    LME (more is better): -98.3049
-    AIC (less is better): 172.6756
-    BIC (less is better): 184.9763
+    LME (more is better): -98.3956
+    AIC (less is better): 172.7125
+    BIC (less is better): 185.0132
  
-    AIC and BIC are approximations to -2*LME = 196.6097.
+    AIC and BIC are approximations to -2*LME = 196.7911.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -4546,84 +1962,24 @@ Calculating the log-model evidence (LME)...
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0039
+        mu: 0.0048
       Rhat: 1
-    vhat_1: 0.6443
+    vhat_1: 0.6450
        h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    be: 2.2154
+    be: 2.2202
 
 Model quality:
-    LME (more is better): -98.3049
-    AIC (less is better): 172.6756
-    BIC (less is better): 184.9763
+    LME (more is better): -98.3956
+    AIC (less is better): 172.7125
+    BIC (less is better): 185.0132
  
-    AIC and BIC are approximations to -2*LME = 196.6097.
+    AIC and BIC are approximations to -2*LME = 196.7911.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -4632,28 +1988,24 @@ Calculating the log-model evidence (LME)...
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0039
+        mu: 0.0048
       Rhat: 1
-    vhat_1: 0.6443
+    vhat_1: 0.6450
        h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    be: 2.2154
+    be: 2.2202
 
 Model quality:
-    LME (more is better): -98.3049
-    AIC (less is better): 172.6756
-    BIC (less is better): 184.9763
+    LME (more is better): -98.3956
+    AIC (less is better): 172.7125
+    BIC (less is better): 185.0132
  
-    AIC and BIC are approximations to -2*LME = 196.6097.
+    AIC and BIC are approximations to -2*LME = 196.7911.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -4683,9 +2035,25 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    v_0: 0.5000
+     al: 0.5595
+
+ 
+Parameter estimates for the observation model:
+    ze: 0.6347
+
+Model quality:
+    LME (more is better): -99.7313
+    AIC (less is better): 171.9592
+    BIC (less is better): 178.1095
+ 
+    AIC and BIC are approximations to -2*LME = 199.4625.
+ 
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -4715,13 +2083,25 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    v_0: 0.5000
+     al: 0.5595
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    ze: 0.6347
+
+Model quality:
+    LME (more is better): -99.7313
+    AIC (less is better): 171.9592
+    BIC (less is better): 178.1095
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 199.4625.
+ 
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -4751,17 +2131,25 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    v_0: 0.5000
+     al: 0.5595
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    ze: 0.6347
+
+Model quality:
+    LME (more is better): -99.7313
+    AIC (less is better): 171.9592
+    BIC (less is better): 178.1095
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 199.4625.
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -4791,21 +2179,25 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    v_0: 0.5000
+     al: 0.5595
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    ze: 0.6347
+
+Model quality:
+    LME (more is better): -99.7313
+    AIC (less is better): 171.9592
+    BIC (less is better): 178.1095
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 199.4625.
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -4835,25 +2227,25 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    v_0: 0.5000
+     al: 0.5595
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    ze: 0.6347
+
+Model quality:
+    LME (more is better): -99.7313
+    AIC (less is better): 171.9592
+    BIC (less is better): 178.1095
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 199.4625.
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -4883,29 +2275,25 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    v_0: 0.5000
+     al: 0.5595
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    ze: 0.6347
+
+Model quality:
+    LME (more is better): -99.7313
+    AIC (less is better): 171.9592
+    BIC (less is better): 178.1095
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 199.4625.
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -4935,38 +2323,6 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
@@ -4991,42 +2347,6 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
@@ -5046,454 +2366,6 @@ Model quality:
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    v_0: 0.5000
-     al: 0.5595
-
- 
-Parameter estimates for the observation model:
-    ze: 0.6347
-
-Model quality:
-    LME (more is better): -99.7313
-    AIC (less is better): 171.9592
-    BIC (less is better): 178.1095
- 
-    AIC and BIC are approximations to -2*LME = 199.4625.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    v_0: 0.5000
-     al: 0.5595
-
- 
-Parameter estimates for the observation model:
-    ze: 0.6347
-
-Model quality:
-    LME (more is better): -99.7313
-    AIC (less is better): 171.9592
-    BIC (less is better): 178.1095
- 
-    AIC and BIC are approximations to -2*LME = 199.4625.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    v_0: 0.5000
-     al: 0.5595
-
- 
-Parameter estimates for the observation model:
-    ze: 0.6347
-
-Model quality:
-    LME (more is better): -99.7313
-    AIC (less is better): 171.9592
-    BIC (less is better): 178.1095
- 
-    AIC and BIC are approximations to -2*LME = 199.4625.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    v_0: 0.5000
-     al: 0.5595
-
- 
-Parameter estimates for the observation model:
-    ze: 0.6347
-
-Model quality:
-    LME (more is better): -99.7313
-    AIC (less is better): 171.9592
-    BIC (less is better): 178.1095
- 
-    AIC and BIC are approximations to -2*LME = 199.4625.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    v_0: 0.5000
-     al: 0.5595
-
- 
-Parameter estimates for the observation model:
-    ze: 0.6347
-
-Model quality:
-    LME (more is better): -99.7313
-    AIC (less is better): 171.9592
-    BIC (less is better): 178.1095
- 
-    AIC and BIC are approximations to -2*LME = 199.4625.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    v_0: 0.5000
-     al: 0.5595
-
- 
-Parameter estimates for the observation model:
-    ze: 0.6347
-
-Model quality:
-    LME (more is better): -99.7313
-    AIC (less is better): 171.9592
-    BIC (less is better): 178.1095
- 
-    AIC and BIC are approximations to -2*LME = 199.4625.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -5526,9 +2398,28 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1]
+    sa_0: [NaN 0.1000 1]
+     rho: [NaN 0 0]
+      ka: [1 0]
+      om: [NaN 0.5394 2]
+
+ 
+Parameter estimates for the observation model:
+    ze: 0.9569
+
+Model quality:
+    LME (more is better): -98.5757
+    AIC (less is better): 164.4987
+    BIC (less is better): 170.649
+ 
+    AIC and BIC are approximations to -2*LME = 197.1514.
+ 
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -5561,13 +2452,28 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1]
+    sa_0: [NaN 0.1000 1]
+     rho: [NaN 0 0]
+      ka: [1 0]
+      om: [NaN 0.5394 2]
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    ze: 0.9569
+
+Model quality:
+    LME (more is better): -98.5757
+    AIC (less is better): 164.4987
+    BIC (less is better): 170.649
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 197.1514.
+ 
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -5600,17 +2506,28 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1]
+    sa_0: [NaN 0.1000 1]
+     rho: [NaN 0 0]
+      ka: [1 0]
+      om: [NaN 0.5394 2]
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    ze: 0.9569
+
+Model quality:
+    LME (more is better): -98.5757
+    AIC (less is better): 164.4987
+    BIC (less is better): 170.649
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 197.1514.
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -5643,21 +2560,28 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1]
+    sa_0: [NaN 0.1000 1]
+     rho: [NaN 0 0]
+      ka: [1 0]
+      om: [NaN 0.5394 2]
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    ze: 0.9569
+
+Model quality:
+    LME (more is better): -98.5757
+    AIC (less is better): 164.4987
+    BIC (less is better): 170.649
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 197.1514.
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -5690,25 +2614,28 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1]
+    sa_0: [NaN 0.1000 1]
+     rho: [NaN 0 0]
+      ka: [1 0]
+      om: [NaN 0.5394 2]
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    ze: 0.9569
+
+Model quality:
+    LME (more is better): -98.5757
+    AIC (less is better): 164.4987
+    BIC (less is better): 170.649
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 197.1514.
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -5741,29 +2668,28 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1]
+    sa_0: [NaN 0.1000 1]
+     rho: [NaN 0 0]
+      ka: [1 0]
+      om: [NaN 0.5394 2]
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    ze: 0.9569
+
+Model quality:
+    LME (more is better): -98.5757
+    AIC (less is better): 164.4987
+    BIC (less is better): 170.649
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 197.1514.
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -5796,33 +2722,28 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 1]
+    sa_0: [NaN 0.1000 1]
+     rho: [NaN 0 0]
+      ka: [1 0]
+      om: [NaN 0.5394 2]
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    ze: 0.9569
+
+Model quality:
+    LME (more is better): -98.5757
+    AIC (less is better): 164.4987
+    BIC (less is better): 170.649
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 197.1514.
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -5855,531 +2776,28 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1]
-    sa_0: [NaN 0.1000 1]
+    mu_0: [NaN 0 0.4751]
+    sa_0: [NaN 0.1000 1.0000]
      rho: [NaN 0 0]
-      ka: [1 0]
-      om: [NaN 0.5394 2]
+      ka: [0.0968 1]
+      om: [NaN -5.0848 1.9868]
 
  
 Parameter estimates for the observation model:
-    ze: 0.9569
+    ze: 11.6163
 
 Model quality:
-    LME (more is better): -98.5757
-    AIC (less is better): 164.4987
-    BIC (less is better): 170.649
+    LME (more is better): -124.1906
+    AIC (less is better): 224.1941
+    BIC (less is better): 242.6452
  
-    AIC and BIC are approximations to -2*LME = 197.1514.
+    AIC and BIC are approximations to -2*LME = 248.3811.
  
 Ignored trials: none
 Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1]
-    sa_0: [NaN 0.1000 1]
-     rho: [NaN 0 0]
-      ka: [1 0]
-      om: [NaN 0.5394 2]
-
- 
-Parameter estimates for the observation model:
-    ze: 0.9569
-
-Model quality:
-    LME (more is better): -98.5757
-    AIC (less is better): 164.4987
-    BIC (less is better): 170.649
- 
-    AIC and BIC are approximations to -2*LME = 197.1514.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1]
-    sa_0: [NaN 0.1000 1]
-     rho: [NaN 0 0]
-      ka: [1 0]
-      om: [NaN 0.5394 2]
-
- 
-Parameter estimates for the observation model:
-    ze: 0.9569
-
-Model quality:
-    LME (more is better): -98.5757
-    AIC (less is better): 164.4987
-    BIC (less is better): 170.649
- 
-    AIC and BIC are approximations to -2*LME = 197.1514.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1]
-    sa_0: [NaN 0.1000 1]
-     rho: [NaN 0 0]
-      ka: [1 0]
-      om: [NaN 0.5394 2]
-
- 
-Parameter estimates for the observation model:
-    ze: 0.9569
-
-Model quality:
-    LME (more is better): -98.5757
-    AIC (less is better): 164.4987
-    BIC (less is better): 170.649
- 
-    AIC and BIC are approximations to -2*LME = 197.1514.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1]
-    sa_0: [NaN 0.1000 1]
-     rho: [NaN 0 0]
-      ka: [1 0]
-      om: [NaN 0.5394 2]
-
- 
-Parameter estimates for the observation model:
-    ze: 0.9569
-
-Model quality:
-    LME (more is better): -98.5757
-    AIC (less is better): 164.4987
-    BIC (less is better): 170.649
- 
-    AIC and BIC are approximations to -2*LME = 197.1514.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
-Launching updater executable
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1]
-    sa_0: [NaN 0.1000 1]
-     rho: [NaN 0 0]
-      ka: [1 0]
-      om: [NaN 0.5394 2]
-
- 
-Parameter estimates for the observation model:
-    ze: 0.9569
-
-Model quality:
-    LME (more is better): -98.5757
-    AIC (less is better): 164.4987
-    BIC (less is better): 170.649
- 
-    AIC and BIC are approximations to -2*LME = 197.1514.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 1]
-    sa_0: [NaN 0.1000 1]
-     rho: [NaN 0 0]
-      ka: [1 0]
-      om: [NaN 0.5394 2]
-
- 
-Parameter estimates for the observation model:
-    ze: 0.9569
-
-Model quality:
-    LME (more is better): -98.5757
-    AIC (less is better): 164.4987
-    BIC (less is better): 170.649
- 
-    AIC and BIC are approximations to -2*LME = 197.1514.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
  
 Optimizing...
  
@@ -6412,9 +2830,28 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 0.4751]
+    sa_0: [NaN 0.1000 1.0000]
+     rho: [NaN 0 0]
+      ka: [0.0968 1]
+      om: [NaN -5.0848 1.9868]
+
+ 
+Parameter estimates for the observation model:
+    ze: 11.6163
+
+Model quality:
+    LME (more is better): -124.1906
+    AIC (less is better): 224.1941
+    BIC (less is better): 242.6452
+ 
+    AIC and BIC are approximations to -2*LME = 248.3811.
+ 
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -6447,13 +2884,28 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 0.4751]
+    sa_0: [NaN 0.1000 1.0000]
+     rho: [NaN 0 0]
+      ka: [0.0968 1]
+      om: [NaN -5.0848 1.9868]
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    ze: 11.6163
+
+Model quality:
+    LME (more is better): -124.1906
+    AIC (less is better): 224.1941
+    BIC (less is better): 242.6452
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 248.3811.
+ 
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -6486,17 +2938,28 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 0.4751]
+    sa_0: [NaN 0.1000 1.0000]
+     rho: [NaN 0 0]
+      ka: [0.0968 1]
+      om: [NaN -5.0848 1.9868]
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    ze: 11.6163
+
+Model quality:
+    LME (more is better): -124.1906
+    AIC (less is better): 224.1941
+    BIC (less is better): 242.6452
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 248.3811.
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -6529,21 +2992,28 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 0.4751]
+    sa_0: [NaN 0.1000 1.0000]
+     rho: [NaN 0 0]
+      ka: [0.0968 1]
+      om: [NaN -5.0848 1.9868]
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    ze: 11.6163
+
+Model quality:
+    LME (more is better): -124.1906
+    AIC (less is better): 224.1941
+    BIC (less is better): 242.6452
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 248.3811.
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -6576,25 +3046,28 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 0.4751]
+    sa_0: [NaN 0.1000 1.0000]
+     rho: [NaN 0 0]
+      ka: [0.0968 1]
+      om: [NaN -5.0848 1.9868]
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    ze: 11.6163
+
+Model quality:
+    LME (more is better): -124.1906
+    AIC (less is better): 224.1941
+    BIC (less is better): 242.6452
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 248.3811.
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -6627,29 +3100,28 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
+Results:
  
-Calculating the log-model evidence (LME)...
+Parameter estimates for the perceptual model:
+    mu_0: [NaN 0 0.4751]
+    sa_0: [NaN 0.1000 1.0000]
+     rho: [NaN 0 0]
+      ka: [0.0968 1]
+      om: [NaN -5.0848 1.9868]
+
  
-Optimizing...
+Parameter estimates for the observation model:
+    ze: 11.6163
+
+Model quality:
+    LME (more is better): -124.1906
+    AIC (less is better): 224.1941
+    BIC (less is better): 242.6452
  
-Calculating the log-model evidence (LME)...
+    AIC and BIC are approximations to -2*LME = 248.3811.
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
+Ignored trials: none
+Irregular trials: none
  
 Optimizing...
  
@@ -6682,38 +3154,6 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
@@ -6741,61 +3181,27 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.4751]
+    mu_0: [NaN 0 0.8499]
     sa_0: [NaN 0.1000 1.0000]
+     phi: [NaN 0 0.5000]
+       m: [NaN 0 0.5982]
      rho: [NaN 0 0]
-      ka: [0.0968 1]
-      om: [NaN -5.0848 1.9868]
+      ka: [0.0955 1]
+      om: [NaN -5.1742 1.9941]
 
  
 Parameter estimates for the observation model:
-    ze: 11.6163
+    ze: 11.5363
 
 Model quality:
-    LME (more is better): -124.1906
-    AIC (less is better): 224.1941
-    BIC (less is better): 242.6452
+    LME (more is better): -126.1594
+    AIC (less is better): 226.2132
+    BIC (less is better): 247.7394
  
-    AIC and BIC are approximations to -2*LME = 248.3811.
+    AIC and BIC are approximations to -2*LME = 252.3188.
  
 Ignored trials: none
 Irregular trials: none
@@ -6804,65 +3210,27 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.4751]
+    mu_0: [NaN 0 0.8499]
     sa_0: [NaN 0.1000 1.0000]
+     phi: [NaN 0 0.5000]
+       m: [NaN 0 0.5982]
      rho: [NaN 0 0]
-      ka: [0.0968 1]
-      om: [NaN -5.0848 1.9868]
+      ka: [0.0955 1]
+      om: [NaN -5.1742 1.9941]
 
  
 Parameter estimates for the observation model:
-    ze: 11.6163
+    ze: 11.5363
 
 Model quality:
-    LME (more is better): -124.1906
-    AIC (less is better): 224.1941
-    BIC (less is better): 242.6452
+    LME (more is better): -126.1594
+    AIC (less is better): 226.2132
+    BIC (less is better): 247.7394
  
-    AIC and BIC are approximations to -2*LME = 248.3811.
+    AIC and BIC are approximations to -2*LME = 252.3188.
  
 Ignored trials: none
 Irregular trials: none
@@ -6871,69 +3239,27 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.4751]
+    mu_0: [NaN 0 0.8499]
     sa_0: [NaN 0.1000 1.0000]
+     phi: [NaN 0 0.5000]
+       m: [NaN 0 0.5982]
      rho: [NaN 0 0]
-      ka: [0.0968 1]
-      om: [NaN -5.0848 1.9868]
+      ka: [0.0955 1]
+      om: [NaN -5.1742 1.9941]
 
  
 Parameter estimates for the observation model:
-    ze: 11.6163
+    ze: 11.5363
 
 Model quality:
-    LME (more is better): -124.1906
-    AIC (less is better): 224.1941
-    BIC (less is better): 242.6452
+    LME (more is better): -126.1594
+    AIC (less is better): 226.2132
+    BIC (less is better): 247.7394
  
-    AIC and BIC are approximations to -2*LME = 248.3811.
+    AIC and BIC are approximations to -2*LME = 252.3188.
  
 Ignored trials: none
 Irregular trials: none
@@ -6942,73 +3268,27 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.4751]
+    mu_0: [NaN 0 0.8499]
     sa_0: [NaN 0.1000 1.0000]
+     phi: [NaN 0 0.5000]
+       m: [NaN 0 0.5982]
      rho: [NaN 0 0]
-      ka: [0.0968 1]
-      om: [NaN -5.0848 1.9868]
+      ka: [0.0955 1]
+      om: [NaN -5.1742 1.9941]
 
  
 Parameter estimates for the observation model:
-    ze: 11.6163
+    ze: 11.5363
 
 Model quality:
-    LME (more is better): -124.1906
-    AIC (less is better): 224.1941
-    BIC (less is better): 242.6452
+    LME (more is better): -126.1594
+    AIC (less is better): 226.2132
+    BIC (less is better): 247.7394
  
-    AIC and BIC are approximations to -2*LME = 248.3811.
+    AIC and BIC are approximations to -2*LME = 252.3188.
  
 Ignored trials: none
 Irregular trials: none
@@ -7017,77 +3297,27 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.4751]
+    mu_0: [NaN 0 0.8499]
     sa_0: [NaN 0.1000 1.0000]
+     phi: [NaN 0 0.5000]
+       m: [NaN 0 0.5982]
      rho: [NaN 0 0]
-      ka: [0.0968 1]
-      om: [NaN -5.0848 1.9868]
+      ka: [0.0955 1]
+      om: [NaN -5.1742 1.9941]
 
  
 Parameter estimates for the observation model:
-    ze: 11.6163
+    ze: 11.5363
 
 Model quality:
-    LME (more is better): -124.1906
-    AIC (less is better): 224.1941
-    BIC (less is better): 242.6452
+    LME (more is better): -126.1594
+    AIC (less is better): 226.2132
+    BIC (less is better): 247.7394
  
-    AIC and BIC are approximations to -2*LME = 248.3811.
+    AIC and BIC are approximations to -2*LME = 252.3188.
  
 Ignored trials: none
 Irregular trials: none
@@ -7096,81 +3326,27 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.4751]
+    mu_0: [NaN 0 0.8499]
     sa_0: [NaN 0.1000 1.0000]
+     phi: [NaN 0 0.5000]
+       m: [NaN 0 0.5982]
      rho: [NaN 0 0]
-      ka: [0.0968 1]
-      om: [NaN -5.0848 1.9868]
+      ka: [0.0955 1]
+      om: [NaN -5.1742 1.9941]
 
  
 Parameter estimates for the observation model:
-    ze: 11.6163
+    ze: 11.5363
 
 Model quality:
-    LME (more is better): -124.1906
-    AIC (less is better): 224.1941
-    BIC (less is better): 242.6452
+    LME (more is better): -126.1594
+    AIC (less is better): 226.2132
+    BIC (less is better): 247.7394
  
-    AIC and BIC are approximations to -2*LME = 248.3811.
+    AIC and BIC are approximations to -2*LME = 252.3188.
  
 Ignored trials: none
 Irregular trials: none
@@ -7179,118 +3355,27 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.4751]
+    mu_0: [NaN 0 0.8499]
     sa_0: [NaN 0.1000 1.0000]
-     rho: [NaN 0 0]
-      ka: [0.0968 1]
-      om: [NaN -5.0848 1.9868]
-
- 
-Parameter estimates for the observation model:
-    ze: 11.6163
-
-Model quality:
-    LME (more is better): -124.1906
-    AIC (less is better): 224.1941
-    BIC (less is better): 242.6452
- 
-    AIC and BIC are approximations to -2*LME = 248.3811.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.8510]
-    sa_0: [NaN 0.1000 0.9991]
      phi: [NaN 0 0.5000]
-       m: [NaN 0 0.6072]
+       m: [NaN 0 0.5982]
      rho: [NaN 0 0]
-      ka: [0.0949 1]
-      om: [NaN -5.1793 1.9811]
+      ka: [0.0955 1]
+      om: [NaN -5.1742 1.9941]
 
  
 Parameter estimates for the observation model:
-    ze: 11.5779
+    ze: 11.5363
 
 Model quality:
-    LME (more is better): -126.1565
-    AIC (less is better): 226.1994
-    BIC (less is better): 247.7256
+    LME (more is better): -126.1594
+    AIC (less is better): 226.2132
+    BIC (less is better): 247.7394
  
-    AIC and BIC are approximations to -2*LME = 252.313.
+    AIC and BIC are approximations to -2*LME = 252.3188.
  
 Ignored trials: none
 Irregular trials: none
@@ -7299,35 +3384,27 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.8510]
-    sa_0: [NaN 0.1000 0.9991]
+    mu_0: [NaN 0 0.8499]
+    sa_0: [NaN 0.1000 1.0000]
      phi: [NaN 0 0.5000]
-       m: [NaN 0 0.6072]
+       m: [NaN 0 0.5982]
      rho: [NaN 0 0]
-      ka: [0.0949 1]
-      om: [NaN -5.1793 1.9811]
+      ka: [0.0955 1]
+      om: [NaN -5.1742 1.9941]
 
  
 Parameter estimates for the observation model:
-    ze: 11.5779
+    ze: 11.5363
 
 Model quality:
-    LME (more is better): -126.1565
-    AIC (less is better): 226.1994
-    BIC (less is better): 247.7256
+    LME (more is better): -126.1594
+    AIC (less is better): 226.2132
+    BIC (less is better): 247.7394
  
-    AIC and BIC are approximations to -2*LME = 252.313.
+    AIC and BIC are approximations to -2*LME = 252.3188.
  
 Ignored trials: none
 Irregular trials: none
@@ -7336,39 +3413,27 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.8510]
-    sa_0: [NaN 0.1000 0.9991]
+    mu_0: [NaN 0 0.8499]
+    sa_0: [NaN 0.1000 1.0000]
      phi: [NaN 0 0.5000]
-       m: [NaN 0 0.6072]
+       m: [NaN 0 0.5982]
      rho: [NaN 0 0]
-      ka: [0.0949 1]
-      om: [NaN -5.1793 1.9811]
+      ka: [0.0955 1]
+      om: [NaN -5.1742 1.9941]
 
  
 Parameter estimates for the observation model:
-    ze: 11.5779
+    ze: 11.5363
 
 Model quality:
-    LME (more is better): -126.1565
-    AIC (less is better): 226.1994
-    BIC (less is better): 247.7256
+    LME (more is better): -126.1594
+    AIC (less is better): 226.2132
+    BIC (less is better): 247.7394
  
-    AIC and BIC are approximations to -2*LME = 252.313.
+    AIC and BIC are approximations to -2*LME = 252.3188.
  
 Ignored trials: none
 Irregular trials: none
@@ -7377,43 +3442,27 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.8510]
-    sa_0: [NaN 0.1000 0.9991]
+    mu_0: [NaN 0 0.8499]
+    sa_0: [NaN 0.1000 1.0000]
      phi: [NaN 0 0.5000]
-       m: [NaN 0 0.6072]
+       m: [NaN 0 0.5982]
      rho: [NaN 0 0]
-      ka: [0.0949 1]
-      om: [NaN -5.1793 1.9811]
+      ka: [0.0955 1]
+      om: [NaN -5.1742 1.9941]
 
  
 Parameter estimates for the observation model:
-    ze: 11.5779
+    ze: 11.5363
 
 Model quality:
-    LME (more is better): -126.1565
-    AIC (less is better): 226.1994
-    BIC (less is better): 247.7256
+    LME (more is better): -126.1594
+    AIC (less is better): 226.2132
+    BIC (less is better): 247.7394
  
-    AIC and BIC are approximations to -2*LME = 252.313.
+    AIC and BIC are approximations to -2*LME = 252.3188.
  
 Ignored trials: none
 Irregular trials: none
@@ -7422,47 +3471,27 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.8510]
-    sa_0: [NaN 0.1000 0.9991]
+    mu_0: [NaN 0 0.8499]
+    sa_0: [NaN 0.1000 1.0000]
      phi: [NaN 0 0.5000]
-       m: [NaN 0 0.6072]
+       m: [NaN 0 0.5982]
      rho: [NaN 0 0]
-      ka: [0.0949 1]
-      om: [NaN -5.1793 1.9811]
+      ka: [0.0955 1]
+      om: [NaN -5.1742 1.9941]
 
  
 Parameter estimates for the observation model:
-    ze: 11.5779
+    ze: 11.5363
 
 Model quality:
-    LME (more is better): -126.1565
-    AIC (less is better): 226.1994
-    BIC (less is better): 247.7256
+    LME (more is better): -126.1594
+    AIC (less is better): 226.2132
+    BIC (less is better): 247.7394
  
-    AIC and BIC are approximations to -2*LME = 252.313.
+    AIC and BIC are approximations to -2*LME = 252.3188.
  
 Ignored trials: none
 Irregular trials: none
@@ -7471,51 +3500,27 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.8510]
-    sa_0: [NaN 0.1000 0.9991]
+    mu_0: [NaN 0 0.8499]
+    sa_0: [NaN 0.1000 1.0000]
      phi: [NaN 0 0.5000]
-       m: [NaN 0 0.6072]
+       m: [NaN 0 0.5982]
      rho: [NaN 0 0]
-      ka: [0.0949 1]
-      om: [NaN -5.1793 1.9811]
+      ka: [0.0955 1]
+      om: [NaN -5.1742 1.9941]
 
  
 Parameter estimates for the observation model:
-    ze: 11.5779
+    ze: 11.5363
 
 Model quality:
-    LME (more is better): -126.1565
-    AIC (less is better): 226.1994
-    BIC (less is better): 247.7256
+    LME (more is better): -126.1594
+    AIC (less is better): 226.2132
+    BIC (less is better): 247.7394
  
-    AIC and BIC are approximations to -2*LME = 252.313.
+    AIC and BIC are approximations to -2*LME = 252.3188.
  
 Ignored trials: none
 Irregular trials: none
@@ -7524,55 +3529,27 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.8510]
-    sa_0: [NaN 0.1000 0.9991]
+    mu_0: [NaN 0 0.8499]
+    sa_0: [NaN 0.1000 1.0000]
      phi: [NaN 0 0.5000]
-       m: [NaN 0 0.6072]
+       m: [NaN 0 0.5982]
      rho: [NaN 0 0]
-      ka: [0.0949 1]
-      om: [NaN -5.1793 1.9811]
+      ka: [0.0955 1]
+      om: [NaN -5.1742 1.9941]
 
  
 Parameter estimates for the observation model:
-    ze: 11.5779
+    ze: 11.5363
 
 Model quality:
-    LME (more is better): -126.1565
-    AIC (less is better): 226.1994
-    BIC (less is better): 247.7256
+    LME (more is better): -126.1594
+    AIC (less is better): 226.2132
+    BIC (less is better): 247.7394
  
-    AIC and BIC are approximations to -2*LME = 252.313.
+    AIC and BIC are approximations to -2*LME = 252.3188.
  
 Ignored trials: none
 Irregular trials: none
@@ -7581,59 +3558,27 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.8510]
-    sa_0: [NaN 0.1000 0.9991]
+    mu_0: [NaN 0 0.8499]
+    sa_0: [NaN 0.1000 1.0000]
      phi: [NaN 0 0.5000]
-       m: [NaN 0 0.6072]
+       m: [NaN 0 0.5982]
      rho: [NaN 0 0]
-      ka: [0.0949 1]
-      om: [NaN -5.1793 1.9811]
+      ka: [0.0955 1]
+      om: [NaN -5.1742 1.9941]
 
  
 Parameter estimates for the observation model:
-    ze: 11.5779
+    ze: 11.5363
 
 Model quality:
-    LME (more is better): -126.1565
-    AIC (less is better): 226.1994
-    BIC (less is better): 247.7256
+    LME (more is better): -126.1594
+    AIC (less is better): 226.2132
+    BIC (less is better): 247.7394
  
-    AIC and BIC are approximations to -2*LME = 252.313.
+    AIC and BIC are approximations to -2*LME = 252.3188.
  
 Ignored trials: none
 Irregular trials: none
@@ -7642,63 +3587,27 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.8510]
-    sa_0: [NaN 0.1000 0.9991]
+    mu_0: [NaN 0 0.8499]
+    sa_0: [NaN 0.1000 1.0000]
      phi: [NaN 0 0.5000]
-       m: [NaN 0 0.6072]
+       m: [NaN 0 0.5982]
      rho: [NaN 0 0]
-      ka: [0.0949 1]
-      om: [NaN -5.1793 1.9811]
+      ka: [0.0955 1]
+      om: [NaN -5.1742 1.9941]
 
  
 Parameter estimates for the observation model:
-    ze: 11.5779
+    ze: 11.5363
 
 Model quality:
-    LME (more is better): -126.1565
-    AIC (less is better): 226.1994
-    BIC (less is better): 247.7256
+    LME (more is better): -126.1594
+    AIC (less is better): 226.2132
+    BIC (less is better): 247.7394
  
-    AIC and BIC are approximations to -2*LME = 252.313.
+    AIC and BIC are approximations to -2*LME = 252.3188.
  
 Ignored trials: none
 Irregular trials: none
@@ -7707,503 +3616,24 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
-Launching updater executable
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.8510]
-    sa_0: [NaN 0.1000 0.9991]
-     phi: [NaN 0 0.5000]
-       m: [NaN 0 0.6072]
-     rho: [NaN 0 0]
-      ka: [0.0949 1]
-      om: [NaN -5.1793 1.9811]
-
- 
-Parameter estimates for the observation model:
-    ze: 11.5779
-
-Model quality:
-    LME (more is better): -126.1565
-    AIC (less is better): 226.1994
-    BIC (less is better): 247.7256
- 
-    AIC and BIC are approximations to -2*LME = 252.313.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.8510]
-    sa_0: [NaN 0.1000 0.9991]
-     phi: [NaN 0 0.5000]
-       m: [NaN 0 0.6072]
-     rho: [NaN 0 0]
-      ka: [0.0949 1]
-      om: [NaN -5.1793 1.9811]
-
- 
-Parameter estimates for the observation model:
-    ze: 11.5779
-
-Model quality:
-    LME (more is better): -126.1565
-    AIC (less is better): 226.1994
-    BIC (less is better): 247.7256
- 
-    AIC and BIC are approximations to -2*LME = 252.313.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.8510]
-    sa_0: [NaN 0.1000 0.9991]
-     phi: [NaN 0 0.5000]
-       m: [NaN 0 0.6072]
-     rho: [NaN 0 0]
-      ka: [0.0949 1]
-      om: [NaN -5.1793 1.9811]
-
- 
-Parameter estimates for the observation model:
-    ze: 11.5779
-
-Model quality:
-    LME (more is better): -126.1565
-    AIC (less is better): 226.1994
-    BIC (less is better): 247.7256
- 
-    AIC and BIC are approximations to -2*LME = 252.313.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.8510]
-    sa_0: [NaN 0.1000 0.9991]
-     phi: [NaN 0 0.5000]
-       m: [NaN 0 0.6072]
-     rho: [NaN 0 0]
-      ka: [0.0949 1]
-      om: [NaN -5.1793 1.9811]
-
- 
-Parameter estimates for the observation model:
-    ze: 11.5779
-
-Model quality:
-    LME (more is better): -126.1565
-    AIC (less is better): 226.1994
-    BIC (less is better): 247.7256
- 
-    AIC and BIC are approximations to -2*LME = 252.313.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.8510]
-    sa_0: [NaN 0.1000 0.9991]
-     phi: [NaN 0 0.5000]
-       m: [NaN 0 0.6072]
-     rho: [NaN 0 0]
-      ka: [0.0949 1]
-      om: [NaN -5.1793 1.9811]
-
- 
-Parameter estimates for the observation model:
-    ze: 11.5779
-
-Model quality:
-    LME (more is better): -126.1565
-    AIC (less is better): 226.1994
-    BIC (less is better): 247.7256
- 
-    AIC and BIC are approximations to -2*LME = 252.313.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-    mu_0: [NaN 0 0.8510]
-    sa_0: [NaN 0.1000 0.9991]
-     phi: [NaN 0 0.5000]
-       m: [NaN 0 0.6072]
-     rho: [NaN 0 0]
-      ka: [0.0949 1]
-      om: [NaN -5.1793 1.9811]
-
- 
-Parameter estimates for the observation model:
-    ze: 11.5779
-
-Model quality:
-    LME (more is better): -126.1565
-    AIC (less is better): 226.1994
-    BIC (less is better): 247.7256
- 
-    AIC and BIC are approximations to -2*LME = 252.313.
- 
-Ignored trials: none
-Irregular trials: none
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Results:
- 
-Parameter estimates for the perceptual model:
-        mu: 0.0049
+        mu: 0.0068
       Rhat: 1
-    vhat_1: 0.6798
-       h_1: 0.0047
+    vhat_1: 0.6445
+       h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    ze: 0.7038
+    ze: 0.7082
 
 Model quality:
-    LME (more is better): -104.5136
-    AIC (less is better): 177.146
-    BIC (less is better): 189.4467
+    LME (more is better): -104.6415
+    AIC (less is better): 177.2284
+    BIC (less is better): 189.5291
  
-    AIC and BIC are approximations to -2*LME = 209.0271.
+    AIC and BIC are approximations to -2*LME = 209.2829.
  
 Ignored trials: none
 Irregular trials: none
@@ -8212,32 +3642,24 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0049
+        mu: 0.0068
       Rhat: 1
-    vhat_1: 0.6798
-       h_1: 0.0047
+    vhat_1: 0.6445
+       h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    ze: 0.7038
+    ze: 0.7082
 
 Model quality:
-    LME (more is better): -104.5136
-    AIC (less is better): 177.146
-    BIC (less is better): 189.4467
+    LME (more is better): -104.6415
+    AIC (less is better): 177.2284
+    BIC (less is better): 189.5291
  
-    AIC and BIC are approximations to -2*LME = 209.0271.
+    AIC and BIC are approximations to -2*LME = 209.2829.
  
 Ignored trials: none
 Irregular trials: none
@@ -8246,36 +3668,24 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0049
+        mu: 0.0068
       Rhat: 1
-    vhat_1: 0.6798
-       h_1: 0.0047
+    vhat_1: 0.6445
+       h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    ze: 0.7038
+    ze: 0.7082
 
 Model quality:
-    LME (more is better): -104.5136
-    AIC (less is better): 177.146
-    BIC (less is better): 189.4467
+    LME (more is better): -104.6415
+    AIC (less is better): 177.2284
+    BIC (less is better): 189.5291
  
-    AIC and BIC are approximations to -2*LME = 209.0271.
+    AIC and BIC are approximations to -2*LME = 209.2829.
  
 Ignored trials: none
 Irregular trials: none
@@ -8284,40 +3694,24 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0049
+        mu: 0.0068
       Rhat: 1
-    vhat_1: 0.6798
-       h_1: 0.0047
+    vhat_1: 0.6445
+       h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    ze: 0.7038
+    ze: 0.7082
 
 Model quality:
-    LME (more is better): -104.5136
-    AIC (less is better): 177.146
-    BIC (less is better): 189.4467
+    LME (more is better): -104.6415
+    AIC (less is better): 177.2284
+    BIC (less is better): 189.5291
  
-    AIC and BIC are approximations to -2*LME = 209.0271.
+    AIC and BIC are approximations to -2*LME = 209.2829.
  
 Ignored trials: none
 Irregular trials: none
@@ -8326,44 +3720,24 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0049
+        mu: 0.0068
       Rhat: 1
-    vhat_1: 0.6798
-       h_1: 0.0047
+    vhat_1: 0.6445
+       h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    ze: 0.7038
+    ze: 0.7082
 
 Model quality:
-    LME (more is better): -104.5136
-    AIC (less is better): 177.146
-    BIC (less is better): 189.4467
+    LME (more is better): -104.6415
+    AIC (less is better): 177.2284
+    BIC (less is better): 189.5291
  
-    AIC and BIC are approximations to -2*LME = 209.0271.
+    AIC and BIC are approximations to -2*LME = 209.2829.
  
 Ignored trials: none
 Irregular trials: none
@@ -8372,48 +3746,24 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0049
+        mu: 0.0068
       Rhat: 1
-    vhat_1: 0.6798
-       h_1: 0.0047
+    vhat_1: 0.6445
+       h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    ze: 0.7038
+    ze: 0.7082
 
 Model quality:
-    LME (more is better): -104.5136
-    AIC (less is better): 177.146
-    BIC (less is better): 189.4467
+    LME (more is better): -104.6415
+    AIC (less is better): 177.2284
+    BIC (less is better): 189.5291
  
-    AIC and BIC are approximations to -2*LME = 209.0271.
+    AIC and BIC are approximations to -2*LME = 209.2829.
  
 Ignored trials: none
 Irregular trials: none
@@ -8422,52 +3772,24 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0049
+        mu: 0.0068
       Rhat: 1
-    vhat_1: 0.6798
-       h_1: 0.0047
+    vhat_1: 0.6445
+       h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    ze: 0.7038
+    ze: 0.7082
 
 Model quality:
-    LME (more is better): -104.5136
-    AIC (less is better): 177.146
-    BIC (less is better): 189.4467
+    LME (more is better): -104.6415
+    AIC (less is better): 177.2284
+    BIC (less is better): 189.5291
  
-    AIC and BIC are approximations to -2*LME = 209.0271.
+    AIC and BIC are approximations to -2*LME = 209.2829.
  
 Ignored trials: none
 Irregular trials: none
@@ -8476,56 +3798,24 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0049
+        mu: 0.0068
       Rhat: 1
-    vhat_1: 0.6798
-       h_1: 0.0047
+    vhat_1: 0.6445
+       h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    ze: 0.7038
+    ze: 0.7082
 
 Model quality:
-    LME (more is better): -104.5136
-    AIC (less is better): 177.146
-    BIC (less is better): 189.4467
+    LME (more is better): -104.6415
+    AIC (less is better): 177.2284
+    BIC (less is better): 189.5291
  
-    AIC and BIC are approximations to -2*LME = 209.0271.
+    AIC and BIC are approximations to -2*LME = 209.2829.
  
 Ignored trials: none
 Irregular trials: none
@@ -8534,60 +3824,24 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0049
+        mu: 0.0068
       Rhat: 1
-    vhat_1: 0.6798
-       h_1: 0.0047
+    vhat_1: 0.6445
+       h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    ze: 0.7038
+    ze: 0.7082
 
 Model quality:
-    LME (more is better): -104.5136
-    AIC (less is better): 177.146
-    BIC (less is better): 189.4467
+    LME (more is better): -104.6415
+    AIC (less is better): 177.2284
+    BIC (less is better): 189.5291
  
-    AIC and BIC are approximations to -2*LME = 209.0271.
+    AIC and BIC are approximations to -2*LME = 209.2829.
  
 Ignored trials: none
 Irregular trials: none
@@ -8596,64 +3850,24 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0049
+        mu: 0.0068
       Rhat: 1
-    vhat_1: 0.6798
-       h_1: 0.0047
+    vhat_1: 0.6445
+       h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    ze: 0.7038
+    ze: 0.7082
 
 Model quality:
-    LME (more is better): -104.5136
-    AIC (less is better): 177.146
-    BIC (less is better): 189.4467
+    LME (more is better): -104.6415
+    AIC (less is better): 177.2284
+    BIC (less is better): 189.5291
  
-    AIC and BIC are approximations to -2*LME = 209.0271.
+    AIC and BIC are approximations to -2*LME = 209.2829.
  
 Ignored trials: none
 Irregular trials: none
@@ -8662,68 +3876,24 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0049
+        mu: 0.0068
       Rhat: 1
-    vhat_1: 0.6798
-       h_1: 0.0047
+    vhat_1: 0.6445
+       h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    ze: 0.7038
+    ze: 0.7082
 
 Model quality:
-    LME (more is better): -104.5136
-    AIC (less is better): 177.146
-    BIC (less is better): 189.4467
+    LME (more is better): -104.6415
+    AIC (less is better): 177.2284
+    BIC (less is better): 189.5291
  
-    AIC and BIC are approximations to -2*LME = 209.0271.
+    AIC and BIC are approximations to -2*LME = 209.2829.
  
 Ignored trials: none
 Irregular trials: none
@@ -8732,72 +3902,24 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0049
+        mu: 0.0068
       Rhat: 1
-    vhat_1: 0.6798
-       h_1: 0.0047
+    vhat_1: 0.6445
+       h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    ze: 0.7038
+    ze: 0.7082
 
 Model quality:
-    LME (more is better): -104.5136
-    AIC (less is better): 177.146
-    BIC (less is better): 189.4467
+    LME (more is better): -104.6415
+    AIC (less is better): 177.2284
+    BIC (less is better): 189.5291
  
-    AIC and BIC are approximations to -2*LME = 209.0271.
+    AIC and BIC are approximations to -2*LME = 209.2829.
  
 Ignored trials: none
 Irregular trials: none
@@ -8806,76 +3928,24 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0049
+        mu: 0.0068
       Rhat: 1
-    vhat_1: 0.6798
-       h_1: 0.0047
+    vhat_1: 0.6445
+       h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    ze: 0.7038
+    ze: 0.7082
 
 Model quality:
-    LME (more is better): -104.5136
-    AIC (less is better): 177.146
-    BIC (less is better): 189.4467
+    LME (more is better): -104.6415
+    AIC (less is better): 177.2284
+    BIC (less is better): 189.5291
  
-    AIC and BIC are approximations to -2*LME = 209.0271.
+    AIC and BIC are approximations to -2*LME = 209.2829.
  
 Ignored trials: none
 Irregular trials: none
@@ -8884,80 +3954,24 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0049
+        mu: 0.0068
       Rhat: 1
-    vhat_1: 0.6798
-       h_1: 0.0047
+    vhat_1: 0.6445
+       h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    ze: 0.7038
+    ze: 0.7082
 
 Model quality:
-    LME (more is better): -104.5136
-    AIC (less is better): 177.146
-    BIC (less is better): 189.4467
+    LME (more is better): -104.6415
+    AIC (less is better): 177.2284
+    BIC (less is better): 189.5291
  
-    AIC and BIC are approximations to -2*LME = 209.0271.
+    AIC and BIC are approximations to -2*LME = 209.2829.
  
 Ignored trials: none
 Irregular trials: none
@@ -8966,82 +3980,22 @@ Optimizing...
  
 Calculating the log-model evidence (LME)...
  
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
-Optimizing...
- 
-Calculating the log-model evidence (LME)...
- 
 Results:
  
 Parameter estimates for the perceptual model:
-        mu: 0.0049
+        mu: 0.0068
       Rhat: 1
-    vhat_1: 0.6798
-       h_1: 0.0047
+    vhat_1: 0.6445
+       h_1: 0.0050
 
  
 Parameter estimates for the observation model:
-    ze: 0.7038
+    ze: 0.7082
 
 Model quality:
-    LME (more is better): -104.5136
-    AIC (less is better): 177.146
-    BIC (less is better): 189.4467
+    LME (more is better): -104.6415
+    AIC (less is better): 177.2284
+    BIC (less is better): 189.5291
  
-    AIC and BIC are approximations to -2*LME = 209.0271.
+    AIC and BIC are approximations to -2*LME = 209.2829.
  
