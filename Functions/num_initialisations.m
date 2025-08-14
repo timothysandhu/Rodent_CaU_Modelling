@@ -22,14 +22,15 @@ for i = 1:numel(options.obsNames)
     for j = 1:numel(options.percNames)
         filename = "Optimisations_" + (options.percNames{j}) + (options.obsNames{i}) + ".pdf";
         
-        if isfile(filename) == 1
+        if isfile(fullfile(filedir, filename)) == 1
              continue    
         end
-
-        for h = 1:15
+        
         if options.obsNames{i} == "unitsq_mu3" && (options.percNames{j} == "rw" || options.percnames{j} == "sutton")
         continue
         end
+
+        for h = 1:15
         
         randInit.(options.obsNames{i}).(options.percNames{j})(h) = tapas_fitModel(sessiondata.Choice,...
                                                  sessiondata.Correct_Side,...
